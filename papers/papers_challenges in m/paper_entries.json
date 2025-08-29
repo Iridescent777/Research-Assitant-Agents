@@ -1,0 +1,122 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Deep Multiagent Reinforcement Learning: Challenges and Directions"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2021-06-29"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Annie Wong, Thomas B\u00e4ck, Anna V. Kononova, Aske Plaat"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "This paper surveys the field of deep multiagent reinforcement learning. The\ncombination of deep neural networks with reinforcement learning has gained\nincreased traction in recent years and is slowly shifting the focus from\nsingle-agent to multiagent environments. Dealing with multiple agents is\ninherently more complex as (a) the future rewards depend on multiple players'\njoint actions and (b) the computational complexity increases. We present the\nmost common multiagent problem representations and their main challenges, and\nidentify five research areas that address one or more of these challenges:\ncentralised training and decentralised execution, opponent modelling,\ncommunication, efficient coordination, and reward shaping. We find that many\ncomputational studies rely on unrealistic assumptions or are not generalisable\nto other settings; they struggle to overcome the curse of dimensionality or\nnonstationarity. Approaches from psychology and sociology capture promising\nrelevant behaviours, such as communication and coordination, to help agents\nachieve better performance in multiagent settings. We suggest that, for\nmultiagent reinforcement learning to be successful, future research should\naddress these challenges with an interdisciplinary approach to open up new\npossibilities in multiagent reinforcement learning."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "multiagent reinforcement"
+                    },
+                    {
+                        "name": "deep multiagent"
+                    },
+                    {
+                        "name": "multiagent"
+                    },
+                    {
+                        "name": "multiple agents"
+                    },
+                    {
+                        "name": "to multiagent"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_challenges in m\\2106.15691v2.pdf",
+        "arxiv_id": "2106.15691v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Presenting Multiagent Challenges in Team Sports Analytics"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2023-03-23"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "David Radke, Alexi Orchard"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "This paper draws correlations between several challenges and opportunities\nwithin the area of team sports analytics and key research areas within\nmultiagent systems (MAS). We specifically consider invasion games, defined as\nsports where players invade the opposing team's territory and can interact\nanywhere on a playing surface such as ice hockey, soccer, and basketball. We\nargue that MAS is well-equipped to study invasion games and will benefit both\nMAS and sports analytics fields. Our discussion highlights areas for MAS\nimplementation and further development along two axes: short-term in-game\nstrategy (coaching) and long-term team planning (management)."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "sports analytics"
+                    },
+                    {
+                        "name": "team planning"
+                    },
+                    {
+                        "name": "team sports"
+                    },
+                    {
+                        "name": "hockey soccer"
+                    },
+                    {
+                        "name": "players invade"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_challenges in m\\2303.13660v1.pdf",
+        "arxiv_id": "2303.13660v1"
+    }
+]

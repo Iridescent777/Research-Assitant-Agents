@@ -1,0 +1,77 @@
+
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{subfig}
+\usepackage{textcomp}
+\usepackage{hyperref}
+\usepackage{cite}
+\usepackage{multirow}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{abstract}
+\usepackage{titlesec}
+
+% Page setup
+\geometry{margin=1in}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+
+% Title formatting
+\titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}
+
+% Hyperref setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    citecolor=blue,
+    pdftitle={A Comprehensive Overview of Multiagent Systems},
+    pdfauthor={AI Research Team},
+    pdfsubject={Multiagent Systems Research},
+    pdfkeywords={multiagent systems, artificial intelligence, distributed systems, cooperation, scalability}
+}
+
+\begin{document}
+
+% Title page
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    {\Huge\bfseries A Comprehensive Overview of Multiagent Systems\par}
+    \vspace{1.5cm}
+    {\Large Recent Advancements, Core Challenges, and Foundational Concepts\par}
+    \vspace{2cm}
+    {\large AI Research Team\par}
+    \vspace{0.5cm}
+    {\large \today\par}
+    \vfill
+    {\large \textit{A comprehensive analysis of multiagent systems research and applications}\par}
+\end{titlepage}
+
+% Abstract
+\begin{abstract}
+This paper provides a comprehensive overview of multiagent systems (MAS), focusing on recent advancements, core challenges, and foundational concepts. We examine key areas including communication protocols, cooperative strategies, scalability concerns, and robustness mechanisms. Through extensive literature review and analysis, we identify critical trends in the field and discuss future research directions. Our findings highlight the importance of effective agent coordination, adaptive learning algorithms, and scalable architectures in advancing multiagent system capabilities. The paper contributes to the understanding of MAS development and provides insights for researchers and practitioners working in distributed artificial intelligence and autonomous systems.
+\end{abstract}
+
+% Table of contents
+\tableofcontents
+\newpage
+
+% Include all modules
+\input{modules/introduction}
+\input{modules/literature_review}
+\input{modules/methodology}
+\input{modules/discussion}
+\input{modules/conclusion}
+
+% Bibliography
+\bibliographystyle{unsrt}
+\bibliography{references}
+
+\end{document}

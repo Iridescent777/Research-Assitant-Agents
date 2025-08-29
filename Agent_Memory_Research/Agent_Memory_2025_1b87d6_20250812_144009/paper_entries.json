@@ -1,0 +1,115 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2025-05-21"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Zidi Xiong, Yuping Lin, Wenya Xie, Pengfei He, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Memory is a critical component in large language model (LLM)-based agents,\nenabling them to store and retrieve past executions to improve task performance\nover time. In this paper, we conduct an empirical study on how memory\nmanagement choices impact the LLM agents' behavior, especially their long-term\nperformance. Specifically, we focus on two fundamental memory operations that\nare widely used by many agent frameworks-addition, which incorporates new\nexperiences into the memory base, and deletion, which selectively removes past\nexperiences-to systematically study their impact on the agent behavior. Through\nour quantitative analysis, we find that LLM agents display an\nexperience-following property: high similarity between a task input and the\ninput in a retrieved memory record often results in highly similar agent\noutputs. Our analysis further reveals two significant challenges associated\nwith this property: error propagation, where inaccuracies in past experiences\ncompound and degrade future performance, and misaligned experience replay,\nwhere outdated or irrelevant experiences negatively influence current tasks.\nThrough controlled experiments, we show that combining selective addition and\ndeletion strategies can help mitigate these negative effects, yielding an\naverage absolute performance gain of 10% compared to naive memory growth.\nFurthermore, we highlight how memory management choices affect agents' behavior\nunder challenging conditions such as task distribution shifts and constrained\nmemory resources. Our findings offer insights into the behavioral dynamics of\nLLM agent memory systems and provide practical guidance for designing memory\ncomponents that support robust, long-term agent performance. We also release\nour code to facilitate further study."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "agent memory"
+                    },
+                    {
+                        "name": "memory growth"
+                    },
+                    {
+                        "name": "memory is"
+                    },
+                    {
+                        "name": "memory"
+                    },
+                    {
+                        "name": "naive memory"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "agent_memory_research\\Agent_Memory_2025_1b87d6_20250812_144009\\2502.13172v2.Unveiling_Privacy_Risks_in_LLM_Agent_Memory\\2502.13172v2.Unveiling_Privacy_Risks_in_LLM_Agent_Memory.pdf"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A-MEM: Agentic Memory for LLM Agents"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2025-02-17"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Wujiang Xu, Kai Mei, Hang Gao, Juntao Tan, Zujie Liang, Yongfeng Zhang"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "While large language model (LLM) agents can effectively use external tools\nfor complex real-world tasks, they require memory systems to leverage\nhistorical experiences. Current memory systems enable basic storage and\nretrieval but lack sophisticated memory organization, despite recent attempts\nto incorporate graph databases. Moreover, these systems' fixed operations and\nstructures limit their adaptability across diverse tasks. To address this\nlimitation, this paper proposes a novel agentic memory system for LLM agents\nthat can dynamically organize memories in an agentic way. Following the basic\nprinciples of the Zettelkasten method, we designed our memory system to create\ninterconnected knowledge networks through dynamic indexing and linking. When a\nnew memory is added, we generate a comprehensive note containing multiple\nstructured attributes, including contextual descriptions, keywords, and tags.\nThe system then analyzes historical memories to identify relevant connections,\nestablishing links where meaningful similarities exist. Additionally, this\nprocess enables memory evolution - as new memories are integrated, they can\ntrigger updates to the contextual representations and attributes of existing\nhistorical memories, allowing the memory network to continuously refine its\nunderstanding. Our approach combines the structured organization principles of\nZettelkasten with the flexibility of agent-driven decision making, allowing for\nmore adaptive and context-aware memory management. Empirical experiments on six\nfoundation models show superior improvement against existing SOTA baselines.\nThe source code for evaluating performance is available at\nhttps://github.com/WujiangXu/A-mem, while the source code of the agentic memory\nsystem is available at https://github.com/WujiangXu/A-mem-sys."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "agentic memory"
+                    },
+                    {
+                        "name": "aware memory"
+                    },
+                    {
+                        "name": "organize memories"
+                    },
+                    {
+                        "name": "memory organization"
+                    },
+                    {
+                        "name": "memory is"
+                    }
+                ]
+            },
+            "Github": {
+                "url": 

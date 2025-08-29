@@ -1,0 +1,72 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{subfig}
+\usepackage{textcomp}
+\usepackage{hyperref}
+\usepackage{cite}
+\usepackage{multirow}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{abstract}
+\usepackage{titlesec}
+
+% Page setup
+\geometry{margin=1in}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+
+% Title formatting
+\titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}
+
+% Hyperref setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    citecolor=blue,
+    pdftitle={测试论文},
+    pdfauthor={测试作者},
+    pdfsubject={Research Paper},
+    pdfkeywords={research, academic, paper}
+}
+
+\begin{document}
+
+% Title page
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    {\Huge\bfseries 测试论文\par}
+    \vspace{1.5cm}
+    {\large 测试作者\par}
+    \vspace{0.5cm}
+    {\large \today\par}
+    \vfill
+    {\large \textit{Automatically generated research paper}\par}
+\end{titlepage}
+
+% Abstract
+\begin{abstract}
+This paper presents research findings and analysis in the field of 测试论文. 
+The content has been automatically generated and compiled into a professional academic format.
+\end{abstract}
+
+% Table of contents
+\tableofcontents
+\newpage
+
+% Main content
+\section{测试}
+这是一个测试章节。
+
+% Bibliography
+\bibliographystyle{unsrt}
+\bibliography{references}
+
+\end{document}

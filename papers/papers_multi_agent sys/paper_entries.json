@@ -1,0 +1,302 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Trustworthy, Responsible, and Safe AI: A Comprehensive Architectural Framework for AI Safety with Challenges and Mitigations"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2024-08-23"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Chen Chen, Xueluan Gong, Ziyao Liu, Weifeng Jiang, Si Qi Goh, Kwok-Yan Lam"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "AI Safety is an emerging area of critical importance to the safe adoption and\ndeployment of AI systems. With the rapid proliferation of AI and especially\nwith the recent advancement of Generative AI (or GAI), the technology ecosystem\nbehind the design, development, adoption, and deployment of AI systems has\ndrastically changed, broadening the scope of AI Safety to address impacts on\npublic safety and national security. In this paper, we propose a novel\narchitectural framework for understanding and analyzing AI Safety; defining its\ncharacteristics from three perspectives: Trustworthy AI, Responsible AI, and\nSafe AI. We provide an extensive review of current research and advancements in\nAI safety from these perspectives, highlighting their key challenges and\nmitigation approaches. Through examples from state-of-the-art technologies,\nparticularly Large Language Models (LLMs), we present innovative mechanism,\nmethodologies, and techniques for designing and testing AI safety. Our goal is\nto promote advancement in AI safety research, and ultimately enhance people's\ntrust in digital transformation."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "safe ai"
+                    },
+                    {
+                        "name": "ai safety"
+                    },
+                    {
+                        "name": "trustworthy ai"
+                    },
+                    {
+                        "name": "responsible ai"
+                    },
+                    {
+                        "name": "ai responsible"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_multi_agent sys\\2408.12935v3.pdf",
+        "arxiv_id": "2408.12935v3"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Interview AI-ssistant: Designing for Real-Time Human-AI Collaboration in Interview Preparation and Execution"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2025-03-03"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Zhe Liu"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Recent advances in large language models (LLMs) offer unprecedented\nopportunities to enhance human-AI collaboration in qualitative research\nmethods, including interviews. While interviews are highly valued for gathering\ndeep, contextualized insights, interviewers often face significant cognitive\nchallenges, such as real-time information processing, question adaptation, and\nrapport maintenance. My doctoral research introduces Interview AI-ssistant, a\nsystem designed for real-time interviewer-AI collaboration during both the\npreparation and execution phases. Through four interconnected studies, this\nresearch investigates the design of effective human-AI collaboration in\ninterviewing contexts, beginning with a formative study of interviewers' needs,\nfollowed by a prototype development study focused on AI-assisted interview\npreparation, an experimental evaluation of real-time AI assistance during\ninterviews, and a field study deploying the system in a real-world research\nsetting. Beyond informing practical implementations of intelligent interview\nsupport systems, this work contributes to the Intelligent User Interfaces (IUI)\ncommunity by advancing the understanding of human-AI collaborative interfaces\nin complex social tasks and establishing design guidelines for AI-enhanced\nqualitative research tools."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "interviewer ai"
+                    },
+                    {
+                        "name": "interview ai"
+                    },
+                    {
+                        "name": "interviewers needs"
+                    },
+                    {
+                        "name": "assisted interview"
+                    },
+                    {
+                        "name": "insights interviewers"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_multi_agent sys\\2504.13847v1.pdf",
+        "arxiv_id": "2504.13847v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Principles for Responsible AI Consciousness Research"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2025-01-13"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Patrick Butlin, Theodoros Lappas"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Recent research suggests that it may be possible to build conscious AI\nsystems now or in the near future. Conscious AI systems would arguably deserve\nmoral consideration, and it may be the case that large numbers of conscious\nsystems could be created and caused to suffer. Furthermore, AI systems or\nAI-generated characters may increasingly give the impression of being\nconscious, leading to debate about their moral status. Organisations involved\nin AI research must establish principles and policies to guide research and\ndeployment choices and public communication concerning consciousness. Even if\nan organisation chooses not to study AI consciousness as such, it will still\nneed policies in place, as those developing advanced AI systems risk\ninadvertently creating conscious entities. Responsible research and deployment\npractices are essential to address this possibility. We propose five principles\nfor responsible research and argue that research organisations should make\nvoluntary, public commitments to principles on these lines. Our principles\nconcern research objectives and procedures, knowledge sharing and public\ncommunications."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "ai consciousness"
+                    },
+                    {
+                        "name": "responsible research"
+                    },
+                    {
+                        "name": "conscious ai"
+                    },
+                    {
+                        "name": "ai research"
+                    },
+                    {
+                        "name": "creating conscious"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_multi_agent sys\\2501.07290v1.pdf",
+        "arxiv_id": "2501.07290v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "AI Safety for Everyone"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2025-02-13"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Balint Gyevnar, Atoosa Kasirzadeh"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Recent discussions and research in AI safety have increasingly emphasized the\ndeep connection between AI safety and existential risk from advanced AI\nsystems, suggesting that work on AI safety necessarily entails serious\nconsideration of potential existential threats. However, this framing has three\npotential drawbacks: it may exclude researchers and practitioners who are\ncommitted to AI safety but approach the field from different angles; it could\nlead the public to mistakenly view AI safety as focused solely on existential\nscenarios rather than addressing a wide spectrum of safety challenges; and it\nrisks creating resistance to safety measures among those who disagree with\npredictions of existential AI risks. Through a systematic literature review of\nprimarily peer-reviewed research, we find a vast array of concrete safety work\nthat addresses immediate and practical concerns with current AI systems. This\nincludes crucial areas like adversarial robustness and interpretability,\nhighlighting how AI safety research naturally extends existing technological\nand systems safety concerns and practices. Our findings suggest the need for an\nepistemically inclusive and pluralistic conception of AI safety that can\naccommodate the full range of safety considerations, motivations, and\nperspectives that currently shape the field."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "ai safety"
+                    },
+                    {
+                        "name": "ai risks"
+                    },
+                    {
+                        "name": "safety research"
+                    },
+                    {
+                        "name": "safety challenges"
+                    },
+                    {
+                        "name": "safety concerns"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_multi_agent sys\\2502.09288v2.pdf",
+        "arxiv_id": "2502.09288v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A 20-Year Community Roadmap for Artificial Intelligence Research in the US"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2019-08-07"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Yolanda Gil, Bart Selman"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Decades of research in artificial intelligence (AI) have produced formidable\ntechnologies that are providing immense benefit to industry, government, and\nsociety. AI systems can now translate across multiple languages, identify\nobjects in images and video, streamline manufacturing processes, and control\ncars. The deployment of AI systems has not only created a trillion-dollar\nindustry that is projected to quadruple in three years, but has also exposed\nthe need to make AI systems fair, explainable, trustworthy, and secure. Future\nAI systems will rightfully be expected to reason effectively about the world in\nwhich they (and people) operate, handling complex tasks and responsibilities\neffectively and ethically, engaging in meaningful communication, and improving\ntheir awareness through experience.\n  Achieving the full potential of AI technologies poses research challenges\nthat require a radical transformation of the AI research enterprise,\nfacilitated by significant and sustained investment. These are the major\nrecommendations of a recent community effort coordinated by the Computing\nCommunity Consortium and the Association for the Advancement of Artificial\nIntelligence to formulate a Roadmap for AI research and development over the\nnext two decades."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "make ai"
+                    },
+                    {
+                        "name": "ai technologies"
+                    },
+                    {
+                        "name": "ai"
+                    },
+                    {
+                        "name": "society ai"
+                    },
+                    {
+                        "name": "the ai"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_multi_agent sys\\1908.02624v1.pdf",
+        "arxiv_id": "1908.02624v1"
+    }
+]

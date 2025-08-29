@@ -1,0 +1,302 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A Survey and Critique of Multiagent Deep Reinforcement Learning"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2018-10-12"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Pablo Hernandez-Leal, Bilal Kartal, Matthew E. Taylor"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Deep reinforcement learning (RL) has achieved outstanding results in recent\nyears. This has led to a dramatic increase in the number of applications and\nmethods. Recent works have explored learning beyond single-agent scenarios and\nhave considered multiagent learning (MAL) scenarios. Initial results report\nsuccesses in complex multiagent domains, although there are several challenges\nto be addressed. The primary goal of this article is to provide a clear\noverview of current multiagent deep reinforcement learning (MDRL) literature.\nAdditionally, we complement the overview with a broader analysis: (i) we\nrevisit previous key components, originally presented in MAL and RL, and\nhighlight how they have been adapted to multiagent deep reinforcement learning\nsettings. (ii) We provide general guidelines to new practitioners in the area:\ndescribing lessons learned from MDRL works, pointing to recent benchmarks, and\noutlining open avenues of research. (iii) We take a more critical tone raising\npractical challenges of MDRL (e.g., implementation and computational demands).\nWe expect this article will help unify and motivate future research to take\nadvantage of the abundant literature that exists (e.g., RL and MAL) in a joint\neffort to promote fruitful research in the multiagent community."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "multiagent learning"
+                    },
+                    {
+                        "name": "multiagent deep"
+                    },
+                    {
+                        "name": "the multiagent"
+                    },
+                    {
+                        "name": "multiagent"
+                    },
+                    {
+                        "name": "deep reinforcement"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagents_papers\\papers_multiagents rec\\1810.05587v3.pdf",
+        "arxiv_id": "1810.05587v3"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Communication and Control in Collaborative UAVs: Recent Advances and Future Trends"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2023-02-23"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Shumaila Javaid, Nasir Saeed, Zakria Qadir, Hamza Fahim, Bin He, Houbing Song, Muhammad Bilal"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "The recent progress in unmanned aerial vehicles (UAV) technology has\nsignificantly advanced UAV-based applications for military, civil, and\ncommercial domains. Nevertheless, the challenges of establishing high-speed\ncommunication links, flexible control strategies, and developing efficient\ncollaborative decision-making algorithms for a swarm of UAVs limit their\nautonomy, robustness, and reliability. Thus, a growing focus has been witnessed\non collaborative communication to allow a swarm of UAVs to coordinate and\ncommunicate autonomously for the cooperative completion of tasks in a short\ntime with improved efficiency and reliability. This work presents a\ncomprehensive review of collaborative communication in a multi-UAV system. We\nthoroughly discuss the characteristics of intelligent UAVs and their\ncommunication and control requirements for autonomous collaboration and\ncoordination. Moreover, we review various UAV collaboration tasks, summarize\nthe applications of UAV swarm networks for dense urban environments and present\nthe use case scenarios to highlight the current developments of UAV-based\napplications in various domains. Finally, we identify several exciting future\nresearch direction that needs attention for advancing the research in\ncollaborative UAVs."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "collaborative uavs"
+                    },
+                    {
+                        "name": "uav swarm"
+                    },
+                    {
+                        "name": "uav collaboration"
+                    },
+                    {
+                        "name": "intelligent uavs"
+                    },
+                    {
+                        "name": "multi uav"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagents_papers\\papers_multiagents rec\\2302.12175v1.pdf",
+        "arxiv_id": "2302.12175v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Self-Adaptive Large Language Model (LLM)-Based Multiagent Systems"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2023-07-12"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Nathalia Nascimento, Paulo Alencar, Donald Cowan"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "In autonomic computing, self-adaptation has been proposed as a fundamental\nparadigm to manage the complexity of multiagent systems (MASs). This achieved\nby extending a system with support to monitor and adapt itself to achieve\nspecific concerns of interest. Communication in these systems is key given that\nin scenarios involving agent interaction, it enhances cooperation and reduces\ncoordination challenges by enabling direct, clear information exchange.\nHowever, improving the expressiveness of the interaction communication with\nMASs is not without challenges. In this sense, the interplay between\nself-adaptive systems and effective communication is crucial for future MAS\nadvancements. In this paper, we propose the integration of large language\nmodels (LLMs) such as GPT-based technologies into multiagent systems. We anchor\nour methodology on the MAPE-K model, which is renowned for its robust support\nin monitoring, analyzing, planning, and executing system adaptations in\nresponse to dynamic environments. We also present a practical illustration of\nthe proposed approach, in which we implement and assess a basic MAS-based\napplication. The approach significantly advances the state-of-the-art of\nself-adaptive systems by proposing a new paradigm for MAS self-adaptation of\nautonomous systems based on LLM capabilities."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "autonomic computing"
+                    },
+                    {
+                        "name": "multiagent systems"
+                    },
+                    {
+                        "name": "self adaptive"
+                    },
+                    {
+                        "name": "adaptive systems"
+                    },
+                    {
+                        "name": "agent interaction"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagents_papers\\papers_multiagents rec\\2307.06187v1.pdf",
+        "arxiv_id": "2307.06187v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Multi-agent Reinforcement Learning: A Comprehensive Survey"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2023-12-15"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Dom Huh, Prasant Mohapatra"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Multi-agent systems (MAS) are widely prevalent and crucially important in\nnumerous real-world applications, where multiple agents must make decisions to\nachieve their objectives in a shared environment. Despite their ubiquity, the\ndevelopment of intelligent decision-making agents in MAS poses several open\nchallenges to their effective implementation. This survey examines these\nchallenges, placing an emphasis on studying seminal concepts from game theory\n(GT) and machine learning (ML) and connecting them to recent advancements in\nmulti-agent reinforcement learning (MARL), i.e. the research of data-driven\ndecision-making within MAS. Therefore, the objective of this survey is to\nprovide a comprehensive perspective along the various dimensions of MARL,\nshedding light on the unique opportunities that are presented in MARL\napplications while highlighting the inherent challenges that accompany this\npotential. Therefore, we hope that our work will not only contribute to the\nfield by analyzing the current landscape of MARL but also motivate future\ndirections with insights for deeper integration of concepts from related\ndomains of GT and ML. With this in mind, this work delves into a detailed\nexploration of recent and past efforts of MARL and its related fields and\ndescribes prior solutions that were proposed and their limitations, as well as\ntheir applications."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "agent reinforcement"
+                    },
+                    {
+                        "name": "multi agent"
+                    },
+                    {
+                        "name": "multiple agents"
+                    },
+                    {
+                        "name": "agent systems"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagents_papers\\papers_multiagents rec\\2312.10256v2.pdf",
+        "arxiv_id": "2312.10256v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "TinyTroupe: An LLM-powered Multiagent Persona Simulation Toolkit"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2025-07-13"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Paulo Salem, Robert Sim, Christopher Olsen, Prerit Saxena, Rafael Barcelos, Yi Ding"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Recent advances in Large Language Models (LLM) have led to a new class of\nautonomous agents, renewing and expanding interest in the area. LLM-powered\nMultiagent Systems (MAS) have thus emerged, both for assistive and simulation\npurposes, yet tools for realistic human behavior simulation -- with its\ndistinctive challenges and opportunities -- remain underdeveloped. Existing MAS\nlibraries and tools lack fine-grained persona specifications, population\nsampling facilities, experimentation support, and integrated validation, among\nother key capabilities, limiting their utility for behavioral studies, social\nsimulation, and related applications. To address these deficiencies, in this\nwork we introduce TinyTroupe, a simulation toolkit enabling detailed persona\ndefinitions (e.g., nationality, age, occupation, personality, beliefs,\nbehaviors) and programmatic control via numerous LLM-driven mechanisms. This\nallows for the concise formulation of behavioral problems of practical\ninterest, either at the individual or group level, and provides effective means\nfor their solution. TinyTroupe's components are presented using representative\nworking examples, such as brainstorming and market research sessions, thereby\nsimultaneously clarifying their purpose and demonstrating their usefulness.\nQuantitative and qualitative evaluations of selected aspects are also provided,\nhighlighting possibilities, limitations, and trade-offs. The approach, though\nrealized as a specific Python implementation, is meant as a novel conceptual\ncontribution, which can be partially or fully incorporated in other contexts.\nThe library is available as open source at\nhttps://github.com/microsoft/tinytroupe."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "simulation toolkit"
+                    },
+                    {
+                        "name": "behavior simulation"
+                    },
+                    {
+                        "name": "social simulation"
+                    },
+                    {
+                        "name": "persona definitions"
+                    },
+                    {
+                        "name": "grained persona"
+                    }
+                ]
+            },
+            "Github": {
+                "url": "https://github.com/microsoft/tinytroupe."
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagents_papers\\papers_multiagents rec\\2507.09788v1.pdf",
+        "arxiv_id": "2507.09788v1"
+    }
+]

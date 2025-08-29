@@ -1,0 +1,302 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Deep Reinforcement Learning in Computer Vision: A Comprehensive Survey"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2021-08-25"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Ngan Le, Vidhiwar Singh Rathour, Kashu Yamazaki, Khoa Luu, Marios Savvides"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Deep reinforcement learning augments the reinforcement learning framework and\nutilizes the powerful representation of deep neural networks. Recent works have\ndemonstrated the remarkable successes of deep reinforcement learning in various\ndomains including finance, medicine, healthcare, video games, robotics, and\ncomputer vision. In this work, we provide a detailed review of recent and\nstate-of-the-art research advances of deep reinforcement learning in computer\nvision. We start with comprehending the theories of deep learning,\nreinforcement learning, and deep reinforcement learning. We then propose a\ncategorization of deep reinforcement learning methodologies and discuss their\nadvantages and limitations. In particular, we divide deep reinforcement\nlearning into seven main categories according to their applications in computer\nvision, i.e. (i)landmark localization (ii) object detection; (iii) object\ntracking; (iv) registration on both 2D image and 3D image volumetric data (v)\nimage segmentation; (vi) videos analysis; and (vii) other applications. Each of\nthese categories is further analyzed with reinforcement learning techniques,\nnetwork design, and performance. Moreover, we provide a comprehensive analysis\nof the existing publicly available datasets and examine source code\navailability. Finally, we present some open issues and discuss future research\ndirections on deep reinforcement learning in computer vision"
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "deep reinforcement"
+                    },
+                    {
+                        "name": "deep neural"
+                    },
+                    {
+                        "name": "learning augments"
+                    },
+                    {
+                        "name": "object tracking"
+                    },
+                    {
+                        "name": "deep learning"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_reinforcement_learning_recent_advancemen/2108.11510v1.pdf",
+        "arxiv_id": "2108.11510v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Modern Deep Reinforcement Learning Algorithms"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2019-06-24"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Sergey Ivanov, Alexander D'yakonov"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Recent advances in Reinforcement Learning, grounded on combining classical\ntheoretical results with Deep Learning paradigm, led to breakthroughs in many\nartificial intelligence tasks and gave birth to Deep Reinforcement Learning\n(DRL) as a field of research. In this work latest DRL algorithms are reviewed\nwith a focus on their theoretical justification, practical limitations and\nobserved empirical properties."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "deep reinforcement"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "learning drl"
+                    },
+                    {
+                        "name": "deep learning"
+                    },
+                    {
+                        "name": "drl algorithms"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_reinforcement_learning_recent_advancemen/1906.10025v2.pdf",
+        "arxiv_id": "1906.10025v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A Review of Reinforcement Learning for Autonomous Building Energy Management"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2019-03-12"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Karl Mason, Santiago Grijalva"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "The area of building energy management has received a significant amount of\ninterest in recent years. This area is concerned with combining advancements in\nsensor technologies, communications and advanced control algorithms to optimize\nenergy utilization. Reinforcement learning is one of the most prominent machine\nlearning algorithms used for control problems and has had many successful\napplications in the area of building energy management. This research gives a\ncomprehensive review of the literature relating to the application of\nreinforcement learning to developing autonomous building energy management\nsystems. The main direction for future research and challenges in reinforcement\nlearning are also outlined."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "energy management"
+                    },
+                    {
+                        "name": "autonomous building"
+                    },
+                    {
+                        "name": "building energy"
+                    },
+                    {
+                        "name": "optimize energy"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_reinforcement_learning_recent_advancemen/1903.05196v2.pdf",
+        "arxiv_id": "1903.05196v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Comprehensive Overview of Reward Engineering and Shaping in Advancing Reinforcement Learning Applications"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2024-07-22"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Sinan Ibrahim, Mostafa Mostafa, Ali Jnadi, Hadi Salloum, Pavel Osinenko"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "The aim of Reinforcement Learning (RL) in real-world applications is to\ncreate systems capable of making autonomous decisions by learning from their\nenvironment through trial and error. This paper emphasizes the importance of\nreward engineering and reward shaping in enhancing the efficiency and\neffectiveness of reinforcement learning algorithms. Reward engineering involves\ndesigning reward functions that accurately reflect the desired outcomes, while\nreward shaping provides additional feedback to guide the learning process,\naccelerating convergence to optimal policies. Despite significant advancements\nin reinforcement learning, several limitations persist. One key challenge is\nthe sparse and delayed nature of rewards in many real-world scenarios, which\ncan hinder learning progress. Additionally, the complexity of accurately\nmodeling real-world environments and the computational demands of reinforcement\nlearning algorithms remain substantial obstacles. On the other hand, recent\nadvancements in deep learning and neural networks have significantly improved\nthe capability of reinforcement learning systems to handle high-dimensional\nstate and action spaces, enabling their application to complex tasks such as\nrobotics, autonomous driving, and game playing. This paper provides a\ncomprehensive review of the current state of reinforcement learning, focusing\non the methodologies and techniques used in reward engineering and reward\nshaping. It critically analyzes the limitations and recent advancements in the\nfield, offering insights into future research directions and potential\napplications in various domains."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "reward shaping"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "reward functions"
+                    },
+                    {
+                        "name": "algorithms reward"
+                    },
+                    {
+                        "name": "reward engineering"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_reinforcement_learning_recent_advancemen/2408.10215v2.pdf",
+        "arxiv_id": "2408.10215v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Fine-grained acceleration control for autonomous intersection management using deep reinforcement learning"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2017-05-30"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Hamid Mirzaei, Tony Givargis"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Recent advances in combining deep learning and Reinforcement Learning have\nshown a promising path for designing new control agents that can learn optimal\npolicies for challenging control tasks. These new methods address the main\nlimitations of conventional Reinforcement Learning methods such as customized\nfeature engineering and small action/state space dimension requirements. In\nthis paper, we leverage one of the state-of-the-art Reinforcement Learning\nmethods, known as Trust Region Policy Optimization, to tackle intersection\nmanagement for autonomous vehicles. We show that using this method, we can\nperform fine-grained acceleration control of autonomous vehicles in a grid\nstreet plan to achieve a global design objective."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "policy optimization"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "autonomous vehicles"
+                    },
+                    {
+                        "name": "optimal policies"
+                    },
+                    {
+                        "name": "street plan"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_reinforcement_learning_recent_advancemen/1705.10432v1.pdf",
+        "arxiv_id": "1705.10432v1"
+    }
+]

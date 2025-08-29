@@ -1,0 +1,49 @@
+\documentclass[12pt]{article}
+% 中文支持
+\usepackage[UTF8]{ctex}
+\usepackage[utf8]{inputenc}
+
+% 常用包
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{graphicx,subfig,textcomp}
+\usepackage{hyperref,cite,multirow,geometry,setspace,abstract,titlesec}
+
+% 页面
+\geometry{margin=1in}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+
+% 标题格式
+\titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}
+
+% 超链接
+\hypersetup{
+  colorlinks=true, linkcolor=blue, urlcolor=cyan, citecolor=blue,
+  pdftitle={Monte Carlo Tree Search (MCTS)}, pdfauthor={AI研究团队}
+}
+
+\begin{document}
+\begin{titlepage}
+  \centering\vspace*{2cm}
+  {\Huge\bfseries Monte Carlo Tree Search (MCTS)\par}\vspace{1.5cm}
+  {\large AI研究团队\par}\vspace{0.5cm}{\large \today\par}\vfill
+  {\large \textit{Automatically generated research paper}\par}
+\end{titlepage}
+
+\begin{abstract}
+本论文围绕“Monte Carlo Tree Search (MCTS)”展开，汇总文献、阐述方法并给出讨论与结论。
+\end{abstract}
+
+\tableofcontents\newpage
+
+\input{modules/introduction}
+\input{modules/literature_review}
+\input{modules/methodology}
+\input{modules/discussion}
+\input{modules/conclusion}
+
+\bibliographystyle{unsrt}
+\bibliography{references}
+
+\end{document}

@@ -1,0 +1,302 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Multi-Agent, Human-Agent and Beyond: A Survey on Cooperation in Social Dilemmas"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2024-02-27"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Chunjiang Mu, Hao Guo, Yang Chen, Chen Shen, Shuyue Hu, Zhen Wang"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "The study of cooperation within social dilemmas has long been a fundamental\ntopic across various disciplines, including computer science and social\nscience. Recent advancements in Artificial Intelligence (AI) have significantly\nreshaped this field, offering fresh insights into understanding and enhancing\ncooperation. This survey examines three key areas at the intersection of AI and\ncooperation in social dilemmas. First, focusing on multi-agent cooperation, we\nreview the intrinsic and external motivations that support cooperation among\nrational agents, and the methods employed to develop effective strategies\nagainst diverse opponents. Second, looking into human-agent cooperation, we\ndiscuss the current AI algorithms for cooperating with humans and the human\nbiases towards AI agents. Third, we review the emergent field of leveraging AI\nagents to enhance cooperation among humans. We conclude by discussing future\nresearch avenues, such as using large language models, establishing unified\ntheoretical frameworks, revisiting existing theories of human cooperation, and\nexploring multiple real-world applications."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "agent cooperation"
+                    },
+                    {
+                        "name": "human cooperation"
+                    },
+                    {
+                        "name": "ai agents"
+                    },
+                    {
+                        "name": "enhance cooperation"
+                    },
+                    {
+                        "name": "enhancing cooperation"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_multiagents rec\\2402.17270v2.pdf",
+        "arxiv_id": "2402.17270v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Diffusion LMS for clustered multitask networks"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2013-10-31"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Jie Chen, C\u00e9dric Richard, Ali Sayed"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Recent research works on distributed adaptive networks have intensively\nstudied the case where the nodes estimate a common parameter vector\ncollaboratively. However, there are many applications that are\nmultitask-oriented in the sense that there are multiple parameter vectors that\nneed to be inferred simultaneously. In this paper, we employ diffusion\nstrategies to develop distributed algorithms that address clustered multitask\nproblems by minimizing an appropriate mean-square error criterion with\n$\\ell_2$-regularization. Some results on the mean-square stability and\nconvergence of the algorithm are also provided. Simulations are conducted to\nillustrate the theoretical findings."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "distributed adaptive"
+                    },
+                    {
+                        "name": "distributed algorithms"
+                    },
+                    {
+                        "name": "adaptive networks"
+                    },
+                    {
+                        "name": "clustered multitask"
+                    },
+                    {
+                        "name": "on distributed"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_multiagents rec\\1310.8615v1.pdf",
+        "arxiv_id": "1310.8615v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "How social feedback processing in the brain shapes collective opinion processes in the era of social media"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2020-03-18"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Sven Banisch, Felix Gaisbauer, Eckehard Olbrich"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "What are the mechanisms by which groups with certain opinions gain public\nvoice and force others holding a different view into silence? And how does\nsocial media play into this? Drawing on recent neuro-scientific insights into\nthe processing of social feedback, we develop a theoretical model that allows\nto address these questions. The model captures phenomena described by spiral of\nsilence theory of public opinion, provides a mechanism-based foundation for it,\nand allows in this way more general insight into how different group structures\nrelate to different regimes of collective opinion expression. Even strong\nmajorities can be forced into silence if a minority acts as a cohesive whole.\nThe proposed framework of social feedback theory (SFT) highlights the need for\nsociological theorising to understand the societal-level implications of\nfindings in social and cognitive neuroscience."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "social feedback"
+                    },
+                    {
+                        "name": "silence theory"
+                    },
+                    {
+                        "name": "does social"
+                    },
+                    {
+                        "name": "social"
+                    },
+                    {
+                        "name": "collective opinion"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_multiagents rec\\2003.08154v1.pdf",
+        "arxiv_id": "2003.08154v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Multi-agent Reinforcement Learning: A Comprehensive Survey"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2023-12-15"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Dom Huh, Prasant Mohapatra"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Multi-agent systems (MAS) are widely prevalent and crucially important in\nnumerous real-world applications, where multiple agents must make decisions to\nachieve their objectives in a shared environment. Despite their ubiquity, the\ndevelopment of intelligent decision-making agents in MAS poses several open\nchallenges to their effective implementation. This survey examines these\nchallenges, placing an emphasis on studying seminal concepts from game theory\n(GT) and machine learning (ML) and connecting them to recent advancements in\nmulti-agent reinforcement learning (MARL), i.e. the research of data-driven\ndecision-making within MAS. Therefore, the objective of this survey is to\nprovide a comprehensive perspective along the various dimensions of MARL,\nshedding light on the unique opportunities that are presented in MARL\napplications while highlighting the inherent challenges that accompany this\npotential. Therefore, we hope that our work will not only contribute to the\nfield by analyzing the current landscape of MARL but also motivate future\ndirections with insights for deeper integration of concepts from related\ndomains of GT and ML. With this in mind, this work delves into a detailed\nexploration of recent and past efforts of MARL and its related fields and\ndescribes prior solutions that were proposed and their limitations, as well as\ntheir applications."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "agent reinforcement"
+                    },
+                    {
+                        "name": "multi agent"
+                    },
+                    {
+                        "name": "multiple agents"
+                    },
+                    {
+                        "name": "agent systems"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_multiagents rec\\2312.10256v2.pdf",
+        "arxiv_id": "2312.10256v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A System Theoretical Perspective to Gradient-Tracking Algorithms for Distributed Quadratic Optimization"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2019-11-15"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Michelangelo Bin, Ivano Notarnicola, Lorenzo Marconi, Giuseppe Notarstefano"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "In this paper we consider a recently developed distributed optimization\nalgorithm based on gradient tracking. We propose a system theory framework to\nanalyze its structural properties on a preliminary, quadratic optimization\nset-up. Specifically, we focus on a scenario in which agents in a static\nnetwork want to cooperatively minimize the sum of quadratic cost functions. We\nshow that the gradient tracking distributed algorithm for the investigated\nprogram can be viewed as a sparse closed-loop linear system in which the\ndynamic state-feedback controller includes consensus matrices and optimization\n(stepsize) parameters. The closed-loop system turns out to be not completely\nreachable and asymptotic stability can be shown restricted to a proper\ninvariant set. Convergence to the global minimum, in turn, can be obtained only\nby means of a proper initialization. The proposed system interpretation of the\ndistributed algorithm provides also additional insights on other structural\nproperties and possible design choices that are discussed in the last part of\nthe paper as a starting point for future developments."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "distributed optimization"
+                    },
+                    {
+                        "name": "consensus matrices"
+                    },
+                    {
+                        "name": "distributed algorithm"
+                    },
+                    {
+                        "name": "tracking distributed"
+                    },
+                    {
+                        "name": "cooperatively minimize"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_multiagents rec\\1911.06665v1.pdf",
+        "arxiv_id": "1911.06665v1"
+    }
+]

@@ -1,0 +1,296 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Game-Theoretic Multiagent Reinforcement Learning"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2020-11-01"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Yaodong Yang, Chengdong Ma, Zihan Ding, Stephen McAleer, Chi Jin, Jun Wang, Tuomas Sandholm"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Tremendous advances have been made in multiagent reinforcement learning\n(MARL). MARL corresponds to the learning problem in a multiagent system in\nwhich multiple agents learn simultaneously. It is an interdisciplinary field of\nstudy with a long history that includes game theory, machine learning,\nstochastic control, psychology, and optimization. Despite great successes in\nMARL, there is a lack of a self-contained overview of the literature that\ncovers game-theoretic foundations of modern MARL methods and summarizes the\nrecent advances. The majority of existing surveys are outdated and do not fully\ncover the recent developments since 2010. In this work, we provide a monograph\non MARL that covers both the fundamentals and the latest developments on the\nresearch frontier. The goal of this monograph is to provide a self-contained\nassessment of the current state-of-the-art MARL techniques from a\ngame-theoretic perspective. We expect this work to serve as a stepping stone\nfor both new researchers who are about to enter this fast-growing field and\nexperts in the field who want to obtain a panoramic view and identify new\ndirections based on recent advances."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "multiagent reinforcement"
+                    },
+                    {
+                        "name": "agents learn"
+                    },
+                    {
+                        "name": "multiagent"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "multiple agents"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagent_systems\\papers_multiagent syst\\2011.00583v5.pdf",
+        "arxiv_id": "2011.00583v5"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Distributed maze exploration using multiple agents and optimal goal assignment"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2024-05-30"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Manousos Linardakis, Iraklis Varlamis, Georgios Th. Papadopoulos"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Robotic exploration has long captivated researchers aiming to map complex\nenvironments efficiently. Techniques such as potential fields and frontier\nexploration have traditionally been employed in this pursuit, primarily\nfocusing on solitary agents. Recent advancements have shifted towards\noptimizing exploration efficiency through multiagent systems. However, many\nexisting approaches overlook critical real-world factors, such as broadcast\nrange limitations, communication costs, and coverage overlap. This paper\naddresses these gaps by proposing a distributed maze exploration strategy\n(CU-LVP) that assumes constrained broadcast ranges and utilizes Voronoi\ndiagrams for better area partitioning. By adapting traditional multiagent\nmethods to distributed environments with limited broadcast ranges, this study\nevaluates their performance across diverse maze topologies, demonstrating the\nefficacy and practical applicability of the proposed method. The code and\nexperimental results supporting this study are available in the following\nrepository: https://github.com/manouslinard/multiagent-exploration/."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "distributed maze"
+                    },
+                    {
+                        "name": "multiagent exploration"
+                    },
+                    {
+                        "name": "maze exploration"
+                    },
+                    {
+                        "name": "robotic exploration"
+                    },
+                    {
+                        "name": "diverse maze"
+                    }
+                ]
+            },
+            "Github": {
+                "url": "https://github.com/manouslinard/multiagent-exploration/."
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagent_systems\\papers_multiagent syst\\2405.20232v1.pdf",
+        "arxiv_id": "2405.20232v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Gillespie algorithms for stochastic multiagent dynamics in populations and network"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2021-12-10"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Naoki Masuda, Christian L. Vestergaard"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Many multiagent dynamics, including various collective dynamics occurring on\nnetworks, can be modeled as a stochastic process in which the agents in the\nsystem change their state over time in interaction with each other. The\nGillespie algorithms are popular algorithms that exactly simulate such\nstochastic multiagent dynamics when each state change is driven by a discrete\nevent, the dynamics is defined in continuous time, and the stochastic law of\nevent occurrence is governed by independent Poisson processes. In the first\nmain part of this volume, we provide a tutorial on the Gillespie algorithms\nfocusing on simulation of social multiagent dynamics occurring in populations\nand networks. We do not assume advanced knowledge of mathematics (or computer\nscience or physics). We clarify why one should use the continuous-time models\nand the Gillespie algorithms in many cases, instead of easier-to-understand\ndiscrete-time models. In the remainder of this volume, we review recent\nextensions of the Gillespie algorithms aiming to add more reality to the model\n(i.e., non-Poissonian cases) or to speed up the simulations."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "stochastic multiagent"
+                    },
+                    {
+                        "name": "gillespie algorithms"
+                    },
+                    {
+                        "name": "multiagent dynamics"
+                    },
+                    {
+                        "name": "poisson processes"
+                    },
+                    {
+                        "name": "collective dynamics"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagent_systems\\papers_multiagent syst\\2112.05293v1.pdf",
+        "arxiv_id": "2112.05293v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Mathematical Tool of Discrete Dynamic Modeling of Complex Systems in Control Loop"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2008-09-16"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Armen Bagdasaryan"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "In this paper we present a method of discrete modeling and analysis of\nmulti-level dynamics of complex large-scale hierarchical dynamic systems\nsubject to external dynamic control mechanism. In a model each state describes\nparallel dynamics and simultaneous trends of changes in system parameters. The\nessence of the approach is in analysis of system state dynamics while it is in\nthe control loop."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "hierarchical dynamic"
+                    },
+                    {
+                        "name": "parallel dynamics"
+                    },
+                    {
+                        "name": "level dynamics"
+                    },
+                    {
+                        "name": "dynamic systems"
+                    },
+                    {
+                        "name": "dynamic control"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagent_systems\\papers_multiagent syst\\0809.2680v1.pdf",
+        "arxiv_id": "0809.2680v1"
+    }
+]and multiagent systems: a cross-fertilisation journey"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2022-06-07"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Stefano Mariani, Marco Picone, Alessandro Ricci"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Digital Twins (DTs) are rapidly emerging as a fundamental brick of\nengineering cyber-physical systems, but their notion is still mostly bound to\nspecific business domains (e.g. manufacturing), goals (e.g. product design), or\napplication domains (e.g. the Internet of Things). As such, their value as\ngeneral purpose engineering abstractions is yet to be fully revealed. In this\npaper, we relate DTs with agents and multiagent systems, as the latter are\narguably the most rich abstractions available for the engineering of complex\nsocio-technical and cyber-physical systems, and the former could both fill in\nsome gaps in agent-oriented engineering and benefit from an agent-oriented\ninterpretation -- in a cross-fertilisation journey."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "multiagent systems"
+                    },
+                    {
+                        "name": "agent oriented"
+                    },
+                    {
+                        "name": "multiagent"
+                    },
+                    {
+                        "name": "agents and"
+                    },
+                    {
+                        "name": "agents"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagent_systems\\papers_multiagent syst\\2206.03253v1.pdf",
+        "arxiv_id": "2206.03253v1"
+    }
+]

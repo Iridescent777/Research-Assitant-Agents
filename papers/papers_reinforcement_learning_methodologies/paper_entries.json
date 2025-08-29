@@ -1,0 +1,302 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Deep Reinforcement Learning in Computer Vision: A Comprehensive Survey"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2021-08-25"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Ngan Le, Vidhiwar Singh Rathour, Kashu Yamazaki, Khoa Luu, Marios Savvides"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Deep reinforcement learning augments the reinforcement learning framework and\nutilizes the powerful representation of deep neural networks. Recent works have\ndemonstrated the remarkable successes of deep reinforcement learning in various\ndomains including finance, medicine, healthcare, video games, robotics, and\ncomputer vision. In this work, we provide a detailed review of recent and\nstate-of-the-art research advances of deep reinforcement learning in computer\nvision. We start with comprehending the theories of deep learning,\nreinforcement learning, and deep reinforcement learning. We then propose a\ncategorization of deep reinforcement learning methodologies and discuss their\nadvantages and limitations. In particular, we divide deep reinforcement\nlearning into seven main categories according to their applications in computer\nvision, i.e. (i)landmark localization (ii) object detection; (iii) object\ntracking; (iv) registration on both 2D image and 3D image volumetric data (v)\nimage segmentation; (vi) videos analysis; and (vii) other applications. Each of\nthese categories is further analyzed with reinforcement learning techniques,\nnetwork design, and performance. Moreover, we provide a comprehensive analysis\nof the existing publicly available datasets and examine source code\navailability. Finally, we present some open issues and discuss future research\ndirections on deep reinforcement learning in computer vision"
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "deep reinforcement"
+                    },
+                    {
+                        "name": "deep neural"
+                    },
+                    {
+                        "name": "learning augments"
+                    },
+                    {
+                        "name": "object tracking"
+                    },
+                    {
+                        "name": "deep learning"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_reinforcement_learning_methodologies/2108.11510v1.pdf",
+        "arxiv_id": "2108.11510v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Causal Reinforcement Learning: A Survey"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2023-07-04"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Zhihong Deng, Jing Jiang, Guodong Long, Chengqi Zhang"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Reinforcement learning is an essential paradigm for solving sequential\ndecision problems under uncertainty. Despite many remarkable achievements in\nrecent decades, applying reinforcement learning methods in the real world\nremains challenging. One of the main obstacles is that reinforcement learning\nagents lack a fundamental understanding of the world and must therefore learn\nfrom scratch through numerous trial-and-error interactions. They may also face\nchallenges in providing explanations for their decisions and generalizing the\nacquired knowledge. Causality, however, offers a notable advantage as it can\nformalize knowledge in a systematic manner and leverage invariance for\neffective knowledge transfer. This has led to the emergence of causal\nreinforcement learning, a subfield of reinforcement learning that seeks to\nenhance existing algorithms by incorporating causal relationships into the\nlearning process. In this survey, we comprehensively review the literature on\ncausal reinforcement learning. We first introduce the basic concepts of\ncausality and reinforcement learning, and then explain how causality can\naddress core challenges in non-causal reinforcement learning. We categorize and\nsystematically review existing causal reinforcement learning approaches based\non their target problems and methodologies. Finally, we outline open issues and\nfuture directions in this emerging field."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "causal reinforcement"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "knowledge causality"
+                    },
+                    {
+                        "name": "learning agents"
+                    },
+                    {
+                        "name": "reinforcement"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_reinforcement_learning_methodologies/2307.01452v2.pdf",
+        "arxiv_id": "2307.01452v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Transfer Learning in Deep Reinforcement Learning: A Survey"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2020-09-16"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Zhuangdi Zhu, Kaixiang Lin, Anil K. Jain, Jiayu Zhou"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Reinforcement learning is a learning paradigm for solving sequential\ndecision-making problems. Recent years have witnessed remarkable progress in\nreinforcement learning upon the fast development of deep neural networks. Along\nwith the promising prospects of reinforcement learning in numerous domains such\nas robotics and game-playing, transfer learning has arisen to tackle various\nchallenges faced by reinforcement learning, by transferring knowledge from\nexternal expertise to facilitate the efficiency and effectiveness of the\nlearning process. In this survey, we systematically investigate the recent\nprogress of transfer learning approaches in the context of deep reinforcement\nlearning. Specifically, we provide a framework for categorizing the\nstate-of-the-art transfer learning approaches, under which we analyze their\ngoals, methodologies, compatible reinforcement learning backbones, and\npractical applications. We also draw connections between transfer learning and\nother relevant topics from the reinforcement learning perspective and explore\ntheir potential challenges that await future research progress."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "transfer learning"
+                    },
+                    {
+                        "name": "deep reinforcement"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "transferring knowledge"
+                    },
+                    {
+                        "name": "deep neural"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_reinforcement_learning_methodologies/2009.07888v7.pdf",
+        "arxiv_id": "2009.07888v7"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Data-Driven Evaluation of Training Action Space for Reinforcement Learning"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2022-04-08"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Rajat Ghosh, Debojyoti Dutta"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Training action space selection for reinforcement learning (RL) is\nconflict-prone due to complex state-action relationships. To address this\nchallenge, this paper proposes a Shapley-inspired methodology for training\naction space categorization and ranking. To reduce exponential-time shapley\ncomputations, the methodology includes a Monte Carlo simulation to avoid\nunnecessary explorations. The effectiveness of the methodology is illustrated\nusing a cloud infrastructure resource tuning case study. It reduces the search\nspace by 80\\% and categorizes the training action sets into dispensable and\nindispensable groups. Additionally, it ranks different training actions to\nfacilitate high-performance yet cost-efficient RL model design. The proposed\ndata-driven methodology is extensible to different domains, use cases, and\nreinforcement learning algorithms."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "training actions"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "action space"
+                    },
+                    {
+                        "name": "training action"
+                    },
+                    {
+                        "name": "action sets"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_reinforcement_learning_methodologies/2204.03840v1.pdf",
+        "arxiv_id": "2204.03840v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Machine Teaching in Hierarchical Genetic Reinforcement Learning: Curriculum Design of Reward Functions for Swarm Shepherding"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2019-01-04"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Nicholas R. Clayton, Hussein Abbass"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "The design of reward functions in reinforcement learning is a human skill\nthat comes with experience. Unfortunately, there is not any methodology in the\nliterature that could guide a human to design the reward function or to allow a\nhuman to transfer the skills developed in designing reward functions to another\nhuman and in a systematic manner. In this paper, we use Systematic\nInstructional Design, an approach in human education, to engineer a machine\neducation methodology to design reward functions for reinforcement learning. We\ndemonstrate the methodology in designing a hierarchical genetic reinforcement\nlearner that adopts a neural network representation to evolve a swarm\ncontroller for an agent shepherding a boids-based swarm. The results reveal\nthat the methodology is able to guide the design of hierarchical reinforcement\nlearners, with each model in the hierarchy learning incrementally through a\nmulti-part reward function. The hierarchy acts as a decision fusion function\nthat combines the individual behaviours and skills learnt by each instruction\nto create a smart shepherd to control the swarm."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "hierarchical reinforcement"
+                    },
+                    {
+                        "name": "reinforcement learner"
+                    },
+                    {
+                        "name": "swarm controller"
+                    },
+                    {
+                        "name": "genetic reinforcement"
+                    },
+                    {
+                        "name": "based swarm"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_reinforcement_learning_methodologies/1901.00949v1.pdf",
+        "arxiv_id": "1901.00949v1"
+    }
+]

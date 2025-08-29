@@ -1,0 +1,302 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Opening the black box of deep learning"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2018-05-22"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Dian Lei, Xiaoxiao Chen, Jianfei Zhao"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "The great success of deep learning shows that its technology contains\nprofound truth, and understanding its internal mechanism not only has important\nimplications for the development of its technology and effective application in\nvarious fields, but also provides meaningful insights into the understanding of\nhuman brain mechanism. At present, most of the theoretical research on deep\nlearning is based on mathematics. This dissertation proposes that the neural\nnetwork of deep learning is a physical system, examines deep learning from\nthree different perspectives: microscopic, macroscopic, and physical world\nviews, answers multiple theoretical puzzles in deep learning by using physics\nprinciples. For example, from the perspective of quantum mechanics and\nstatistical physics, this dissertation presents the calculation methods for\nconvolution calculation, pooling, normalization, and Restricted Boltzmann\nMachine, as well as the selection of cost functions, explains why deep learning\nmust be deep, what characteristics are learned in deep learning, why\nConvolutional Neural Networks do not have to be trained layer by layer, and the\nlimitations of deep learning, etc., and proposes the theoretical direction and\nbasis for the further development of deep learning now and in the future. The\nbrilliance of physics flashes in deep learning, we try to establish the deep\nlearning technology based on the scientific theory of physics."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "deep learning"
+                    },
+                    {
+                        "name": "boltzmann machine"
+                    },
+                    {
+                        "name": "convolutional neural"
+                    },
+                    {
+                        "name": "neural network"
+                    },
+                    {
+                        "name": "boltzmann"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_deep_learning/1805.08355v1.pdf",
+        "arxiv_id": "1805.08355v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Concept-Oriented Deep Learning"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2018-06-05"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Daniel T Chang"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Concepts are the foundation of human deep learning, understanding, and\nknowledge integration and transfer. We propose concept-oriented deep learning\n(CODL) which extends (machine) deep learning with concept representations and\nconceptual understanding capability. CODL addresses some of the major\nlimitations of deep learning: interpretability, transferability, contextual\nadaptation, and requirement for lots of labeled training data. We discuss the\nmajor aspects of CODL including concept graph, concept representations, concept\nexemplars, and concept representation learning systems supporting incremental\nand continual learning."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "concept representations"
+                    },
+                    {
+                        "name": "concept representation"
+                    },
+                    {
+                        "name": "concept graph"
+                    },
+                    {
+                        "name": "deep learning"
+                    },
+                    {
+                        "name": "concept oriented"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_deep_learning/1806.01756v1.pdf",
+        "arxiv_id": "1806.01756v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Deep learning research landscape & roadmap in a nutshell: past, present and future -- Towards deep cortical learning"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2019-07-30"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Aras R. Dargazany"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "The past, present and future of deep learning is presented in this work.\nGiven this landscape & roadmap, we predict that deep cortical learning will be\nthe convergence of deep learning & cortical learning which builds an artificial\ncortical column ultimately."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "deep cortical"
+                    },
+                    {
+                        "name": "cortical learning"
+                    },
+                    {
+                        "name": "learning cortical"
+                    },
+                    {
+                        "name": "cortical column"
+                    },
+                    {
+                        "name": "artificial cortical"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_deep_learning/1908.02130v1.pdf",
+        "arxiv_id": "1908.02130v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A First Look at Deep Learning Apps on Smartphones"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2018-11-08"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Mengwei Xu, Jiawei Liu, Yuanqiang Liu, Felix Xiaozhu Lin, Yunxin Liu, Xuanzhe Liu"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "We are in the dawn of deep learning explosion for smartphones. To bridge the\ngap between research and practice, we present the first empirical study on\n16,500 the most popular Android apps, demystifying how smartphone apps exploit\ndeep learning in the wild. To this end, we build a new static tool that\ndissects apps and analyzes their deep learning functions. Our study answers\nthreefold questions: what are the early adopter apps of deep learning, what do\nthey use deep learning for, and how do their deep learning models look like.\nOur study has strong implications for app developers, smartphone vendors, and\ndeep learning R\\&D. On one hand, our findings paint a promising picture of deep\nlearning for smartphones, showing the prosperity of mobile deep learning\nframeworks as well as the prosperity of apps building their cores atop deep\nlearning. On the other hand, our findings urge optimizations on deep learning\nmodels deployed on smartphones, the protection of these models, and validation\nof research ideas on these models."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "mobile deep"
+                    },
+                    {
+                        "name": "smartphone apps"
+                    },
+                    {
+                        "name": "developers smartphone"
+                    },
+                    {
+                        "name": "apps demystifying"
+                    },
+                    {
+                        "name": "apps"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_deep_learning/1812.05448v4.pdf",
+        "arxiv_id": "1812.05448v4"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Geometrization of deep networks for the interpretability of deep learning systems"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2019-01-06"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Xiao Dong, Ling Zhou"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "How to understand deep learning systems remains an open problem. In this\npaper we propose that the answer may lie in the geometrization of deep\nnetworks. Geometrization is a bridge to connect physics, geometry, deep network\nand quantum computation and this may result in a new scheme to reveal the rule\nof the physical world. By comparing the geometry of image matching and deep\nnetworks, we show that geometrization of deep networks can be used to\nunderstand existing deep learning systems and it may also help to solve the\ninterpretability problem of deep learning systems."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "networks geometrization"
+                    },
+                    {
+                        "name": "deep learning"
+                    },
+                    {
+                        "name": "deep networks"
+                    },
+                    {
+                        "name": "deep network"
+                    },
+                    {
+                        "name": "geometry deep"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_deep_learning/1901.02354v2.pdf",
+        "arxiv_id": "1901.02354v2"
+    }
+]

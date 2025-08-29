@@ -1,0 +1,242 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Transfer Learning in Deep Reinforcement Learning: A Survey"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2020-09-16"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Zhuangdi Zhu, Kaixiang Lin, Anil K. Jain, Jiayu Zhou"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Reinforcement learning is a learning paradigm for solving sequential\ndecision-making problems. Recent years have witnessed remarkable progress in\nreinforcement learning upon the fast development of deep neural networks. Along\nwith the promising prospects of reinforcement learning in numerous domains such\nas robotics and game-playing, transfer learning has arisen to tackle various\nchallenges faced by reinforcement learning, by transferring knowledge from\nexternal expertise to facilitate the efficiency and effectiveness of the\nlearning process. In this survey, we systematically investigate the recent\nprogress of transfer learning approaches in the context of deep reinforcement\nlearning. Specifically, we provide a framework for categorizing the\nstate-of-the-art transfer learning approaches, under which we analyze their\ngoals, methodologies, compatible reinforcement learning backbones, and\npractical applications. We also draw connections between transfer learning and\nother relevant topics from the reinforcement learning perspective and explore\ntheir potential challenges that await future research progress."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "transfer learning"
+                    },
+                    {
+                        "name": "deep reinforcement"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "transferring knowledge"
+                    },
+                    {
+                        "name": "deep neural"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_recent developm\\2009.07888v7.pdf",
+        "arxiv_id": "2009.07888v7"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Distributed Deep Reinforcement Learning: A Survey and A Multi-Player Multi-Agent Learning Toolbox"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2022-12-01"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Qiyue Yin, Tongtong Yu, Shengqi Shen, Jun Yang, Meijing Zhao, Kaiqi Huang, Bin Liang, Liang Wang"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "With the breakthrough of AlphaGo, deep reinforcement learning becomes a\nrecognized technique for solving sequential decision-making problems. Despite\nits reputation, data inefficiency caused by its trial and error learning\nmechanism makes deep reinforcement learning hard to be practical in a wide\nrange of areas. Plenty of methods have been developed for sample efficient deep\nreinforcement learning, such as environment modeling, experience transfer, and\ndistributed modifications, amongst which, distributed deep reinforcement\nlearning has shown its potential in various applications, such as\nhuman-computer gaming, and intelligent transportation. In this paper, we\nconclude the state of this exciting field, by comparing the classical\ndistributed deep reinforcement learning methods, and studying important\ncomponents to achieve efficient distributed learning, covering single player\nsingle agent distributed deep reinforcement learning to the most complex\nmultiple players multiple agents distributed deep reinforcement learning.\nFurthermore, we review recently released toolboxes that help to realize\ndistributed deep reinforcement learning without many modifications of their\nnon-distributed versions. By analyzing their strengths and weaknesses, a\nmulti-player multi-agent distributed deep reinforcement learning toolbox is\ndeveloped and released, which is further validated on Wargame, a complex\nenvironment, showing usability of the proposed toolbox for multiple players and\nmultiple agents distributed deep reinforcement learning under complex games.\nFinally, we try to point out challenges and future trends, hoping this brief\nreview can provide a guide or a spark for researchers who are interested in\ndistributed deep reinforcement learning."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "distributed deep"
+                    },
+                    {
+                        "name": "distributed learning"
+                    },
+                    {
+                        "name": "agent distributed"
+                    },
+                    {
+                        "name": "deep reinforcement"
+                    },
+                    {
+                        "name": "agents distributed"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_recent developm\\2212.00253v1.pdf",
+        "arxiv_id": "2212.00253v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A survey of benchmarking frameworks for reinforcement learning"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2020-11-27"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Belinda Stapelberg, Katherine M. Malan"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Reinforcement learning has recently experienced increased prominence in the\nmachine learning community. There are many approaches to solving reinforcement\nlearning problems with new techniques developed constantly. When solving\nproblems using reinforcement learning, there are various difficult challenges\nto overcome. To ensure progress in the field, benchmarks are important for\ntesting new algorithms and comparing with other approaches. The reproducibility\nof results for fair comparison is therefore vital in ensuring that improvements\nare accurately judged. This paper provides an overview of different\ncontributions to reinforcement learning benchmarking and discusses how they can\nassist researchers to address the challenges facing reinforcement learning. The\ncontributions discussed are the most used and recent in the literature. The\npaper discusses the contributions in terms of implementation, tasks and\nprovided algorithm implementations with benchmarks. The survey aims to bring\nattention to the wide range of reinforcement learning benchmarking tasks\navailable and to encourage research to take place in a standardised manner.\nAdditionally, this survey acts as an overview for researchers not familiar with\nthe different tasks that can be used to develop and test new reinforcement\nlearning algorithms."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "learning benchmarking"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "benchmarking tasks"
+                    },
+                    {
+                        "name": "solving reinforcement"
+                    },
+                    {
+                        "name": "benchmarking"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_recent developm\\2011.13577v1.pdf",
+        "arxiv_id": "2011.13577v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A Survey on Offline Model-Based Reinforcement Learning"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2023-05-05"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Haoyang He"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Model-based approaches are becoming increasingly popular in the field of\noffline reinforcement learning, with high potential in real-world applications\ndue to the model's capability of thoroughly utilizing the large historical\ndatasets available with supervised learning techniques. This paper presents a\nliterature review of recent work in offline model-based reinforcement learning,\na field that utilizes model-based approaches in offline reinforcement learning.\nThe survey provides a brief overview of the concepts and recent developments in\nboth offline reinforcement learning and model-based reinforcement learning, and\ndiscuss the intersection of the two fields. We then presents key relevant\npapers in the field of offline model-based reinforcement learning and discuss\ntheir methods, particularly their approaches in solving the issue of\ndistributional shift, the main problem faced by all current offline model-based\nreinforcement learning methods. We further discuss key challenges faced by the\nfield, and suggest possible directions for future work."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "offline reinforcement"
+                    },
+                    {
+                        "name": "offline model"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "offline"
+                    },
+                    {
+                        "name": "based reinforcement"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_recent developm\\2305.03360v1.pdf",
+        "arxiv_id": "2305.03360v1"
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Constraint Optimized Multichannel Mixer-limiter Design"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2025-07-09"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Yuancheng Luo, Dmitriy Yamkovoy, Guillermo Garcia"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Multichannel audio mixer and limiter designs are conventionally decoupled for\ncontent reproduction over loudspeaker arrays due to high computational\ncomplexity and run-time costs. We propose a coupled mixer-limiter-envelope\ndesign formulated as an efficient linear-constrained quadratic program that\nminimizes a distortion objective over multichannel gain variables subject to\nsample mixture constraints. Novel methods for asymmetric constant overlap-add\nwindow optimization, objective function approximation, variable and constraint\nreduction are presented. Experiments demonstrate distortion reduction of the\ncoupled design, and computational trade-offs required for efficient real-time\nprocessing."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "audio mixer"
+                    },
+                    {
+                        "name": "mixer limiter"
+                    },
+                    {
+                        "name": "multichannel audio"
+                    },
+                    {
+                        "name": "loudspeaker arrays"
+                    },
+                    {
+                        "name": "coupled mixer"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "neurips_2026_info\\NeurIPS_2026_submission_guidelines_2ed3fc_20250812_144009\\math-ph_0508019v1.Random_algebraic_geometry__attractors_and_flux_vacua\\math-ph_0508019v1.Random_algebraic_geometry__attractors_and_flux_vacua.pdf"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "NeurIPS 2019 Disentanglement Challenge: Improved Disentanglement through Aggregated Convolutional Feature Maps"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2020-02-23"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Maximilian Seitzer"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "This report to our stage 1 submission to the NeurIPS 2019 disentanglement\nchallenge presents a simple image preprocessing method for training VAEs\nleading to improved disentanglement compared to directly using the images. In\nparticular, we propose to use regionally aggregated feature maps extracted from\nCNNs pretrained on ImageNet. Our method achieved the 2nd place in stage 1 of\nthe challenge. Code is available at\nhttps://github.com/mseitzer/neurips2019-disentanglement-challenge."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "cnns pretrained"
+                    },
+                    {
+                        "name": "neurips2019 disentanglement"
+                    },
+                    {
+                        "name": "cnns"
+                    },
+                    {
+                        "name": "2019 disentanglement"
+                    },
+                    {
+                        "name": "imagenet"
+                    }
+                ]
+            },
+            "Github": {
+                "url": 

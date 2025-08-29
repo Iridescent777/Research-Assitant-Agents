@@ -1,0 +1,302 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Trends in Neural Architecture Search: Towards the Acceleration of Search"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2021-08-19"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Youngkee Kim, Won Joon Yun, Youn Kyu Lee, Soyi Jung, Joongheon Kim"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "In modern deep learning research, finding optimal (or near optimal) neural\nnetwork models is one of major research directions and it is widely studied in\nmany applications. In this paper, the main research trends of neural\narchitecture search (NAS) are classified as neuro-evolutionary algorithms,\nreinforcement learning based algorithms, and one-shot architecture search\napproaches. Furthermore, each research trend is introduced and finally all the\nmajor three trends are compared. Lastly, the future research directions of NAS\nresearch trends are discussed."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "neural architecture"
+                    },
+                    {
+                        "name": "architecture search"
+                    },
+                    {
+                        "name": "optimal neural"
+                    },
+                    {
+                        "name": "deep learning"
+                    },
+                    {
+                        "name": "evolutionary algorithms"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_future trends i\\2108.08474v1.pdf",
+        "arxiv_id": "2108.08474v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Distributed Deep Reinforcement Learning: A Survey and A Multi-Player Multi-Agent Learning Toolbox"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2022-12-01"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Qiyue Yin, Tongtong Yu, Shengqi Shen, Jun Yang, Meijing Zhao, Kaiqi Huang, Bin Liang, Liang Wang"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "With the breakthrough of AlphaGo, deep reinforcement learning becomes a\nrecognized technique for solving sequential decision-making problems. Despite\nits reputation, data inefficiency caused by its trial and error learning\nmechanism makes deep reinforcement learning hard to be practical in a wide\nrange of areas. Plenty of methods have been developed for sample efficient deep\nreinforcement learning, such as environment modeling, experience transfer, and\ndistributed modifications, amongst which, distributed deep reinforcement\nlearning has shown its potential in various applications, such as\nhuman-computer gaming, and intelligent transportation. In this paper, we\nconclude the state of this exciting field, by comparing the classical\ndistributed deep reinforcement learning methods, and studying important\ncomponents to achieve efficient distributed learning, covering single player\nsingle agent distributed deep reinforcement learning to the most complex\nmultiple players multiple agents distributed deep reinforcement learning.\nFurthermore, we review recently released toolboxes that help to realize\ndistributed deep reinforcement learning without many modifications of their\nnon-distributed versions. By analyzing their strengths and weaknesses, a\nmulti-player multi-agent distributed deep reinforcement learning toolbox is\ndeveloped and released, which is further validated on Wargame, a complex\nenvironment, showing usability of the proposed toolbox for multiple players and\nmultiple agents distributed deep reinforcement learning under complex games.\nFinally, we try to point out challenges and future trends, hoping this brief\nreview can provide a guide or a spark for researchers who are interested in\ndistributed deep reinforcement learning."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "distributed deep"
+                    },
+                    {
+                        "name": "distributed learning"
+                    },
+                    {
+                        "name": "agent distributed"
+                    },
+                    {
+                        "name": "deep reinforcement"
+                    },
+                    {
+                        "name": "agents distributed"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_future trends i\\2212.00253v1.pdf",
+        "arxiv_id": "2212.00253v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A View on Deep Reinforcement Learning in System Optimization"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2019-08-04"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Ameer Haj-Ali, Nesreen K. Ahmed, Ted Willke, Joseph Gonzalez, Krste Asanovic, Ion Stoica"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Many real-world systems problems require reasoning about the long term\nconsequences of actions taken to configure and manage the system. These\nproblems with delayed and often sequentially aggregated reward, are often\ninherently reinforcement learning problems and present the opportunity to\nleverage the recent substantial advances in deep reinforcement learning.\nHowever, in some cases, it is not clear why deep reinforcement learning is a\ngood fit for the problem. Sometimes, it does not perform better than the\nstate-of-the-art solutions. And in other cases, random search or greedy\nalgorithms could outperform deep reinforcement learning. In this paper, we\nreview, discuss, and evaluate the recent trends of using deep reinforcement\nlearning in system optimization. We propose a set of essential metrics to guide\nfuture works in evaluating the efficacy of using deep reinforcement learning in\nsystem optimization. Our evaluation includes challenges, the types of problems,\ntheir formulation in the deep reinforcement learning setting, embedding, the\nmodel used, efficiency, and robustness. We conclude with a discussion on open\nchallenges and potential directions for pushing further the integration of\nreinforcement learning in system optimization."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "deep reinforcement"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "reinforcement"
+                    },
+                    {
+                        "name": "using deep"
+                    },
+                    {
+                        "name": "reward"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_future trends i\\1908.01275v3.pdf",
+        "arxiv_id": "1908.01275v3"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A Concise Introduction to Reinforcement Learning in Robotics"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2022-10-13"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Akash Nagaraj, Mukund Sood, Bhagya M Patil"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "One of the biggest hurdles robotics faces is the facet of sophisticated and\nhard-to-engineer behaviors. Reinforcement learning offers a set of tools, and a\nframework to address this problem. In parallel, the misgivings of robotics\noffer a solid testing ground and evaluation metric for advancements in\nreinforcement learning. The two disciplines go hand-in-hand, much like the\nfields of Mathematics and Physics. By means of this survey paper, we aim to\ninvigorate links between the research communities of the two disciplines by\nfocusing on the work done in reinforcement learning for locomotive and control\naspects of robotics. Additionally, we aim to highlight not only the notable\nsuccesses but also the key challenges of the application of Reinforcement\nLearning in Robotics. This paper aims to serve as a reference guide for\nresearchers in reinforcement learning applied to the field of robotics. The\nliterature survey is at a fairly introductory level, aimed at aspiring\nresearchers. Appropriately, we have covered the most essential concepts\nrequired for research in the field of reinforcement learning, with robotics in\nmind. Through a thorough analysis of this problem, we are able to manifest how\nreinforcement learning could be applied profitably, and also focus on\nopen-ended questions, as well as the potential for future research."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "reinforcement"
+                    },
+                    {
+                        "name": "robotics"
+                    },
+                    {
+                        "name": "behaviors reinforcement"
+                    },
+                    {
+                        "name": "how reinforcement"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_future trends i\\2210.07397v1.pdf",
+        "arxiv_id": "2210.07397v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Intelligent Offloading in Vehicular Edge Computing: A Comprehensive Review of Deep Reinforcement Learning Approaches and Architectures"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2025-02-10"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Ashab Uddin, Ahmed Hamdi Sakr, Ning Zhang"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "The increasing complexity of Intelligent Transportation Systems (ITS) has led\nto significant interest in computational offloading to external infrastructures\nsuch as edge servers, vehicular nodes, and UAVs. These dynamic and\nheterogeneous environments pose challenges for traditional offloading\nstrategies, prompting the exploration of Reinforcement Learning (RL) and Deep\nReinforcement Learning (DRL) as adaptive decision-making frameworks. This\nsurvey presents a comprehensive review of recent advances in DRL-based\noffloading for vehicular edge computing (VEC). We classify and compare existing\nworks based on learning paradigms (e.g., single-agent, multi-agent), system\narchitectures (e.g., centralized, distributed, hierarchical), and optimization\nobjectives (e.g., latency, energy, fairness). Furthermore, we analyze how\nMarkov Decision Process (MDP) formulations are applied and highlight emerging\ntrends in reward design, coordination mechanisms, and scalability. Finally, we\nidentify open challenges and outline future research directions to guide the\ndevelopment of robust and intelligent offloading strategies for next-generation\nITS."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "intelligent offloading"
+                    },
+                    {
+                        "name": "edge computing"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "intelligent transportation"
+                    },
+                    {
+                        "name": "vehicular edge"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_future trends i\\2502.06963v2.pdf",
+        "arxiv_id": "2502.06963v2"
+    }
+]

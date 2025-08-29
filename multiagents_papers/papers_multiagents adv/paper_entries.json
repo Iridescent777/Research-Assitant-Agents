@@ -1,0 +1,302 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Self-Adaptive Large Language Model (LLM)-Based Multiagent Systems"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2023-07-12"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Nathalia Nascimento, Paulo Alencar, Donald Cowan"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "In autonomic computing, self-adaptation has been proposed as a fundamental\nparadigm to manage the complexity of multiagent systems (MASs). This achieved\nby extending a system with support to monitor and adapt itself to achieve\nspecific concerns of interest. Communication in these systems is key given that\nin scenarios involving agent interaction, it enhances cooperation and reduces\ncoordination challenges by enabling direct, clear information exchange.\nHowever, improving the expressiveness of the interaction communication with\nMASs is not without challenges. In this sense, the interplay between\nself-adaptive systems and effective communication is crucial for future MAS\nadvancements. In this paper, we propose the integration of large language\nmodels (LLMs) such as GPT-based technologies into multiagent systems. We anchor\nour methodology on the MAPE-K model, which is renowned for its robust support\nin monitoring, analyzing, planning, and executing system adaptations in\nresponse to dynamic environments. We also present a practical illustration of\nthe proposed approach, in which we implement and assess a basic MAS-based\napplication. The approach significantly advances the state-of-the-art of\nself-adaptive systems by proposing a new paradigm for MAS self-adaptation of\nautonomous systems based on LLM capabilities."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "autonomic computing"
+                    },
+                    {
+                        "name": "multiagent systems"
+                    },
+                    {
+                        "name": "self adaptive"
+                    },
+                    {
+                        "name": "adaptive systems"
+                    },
+                    {
+                        "name": "agent interaction"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagents_papers\\papers_multiagents adv\\2307.06187v1.pdf",
+        "arxiv_id": "2307.06187v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Advancing Multi-Agent Systems Through Model Context Protocol: Architecture, Implementation, and Applications"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2025-04-26"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Naveen Krishnan"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Multi-agent systems represent a significant advancement in artificial\nintelligence, enabling complex problem-solving through coordinated specialized\nagents. However, these systems face fundamental challenges in context\nmanagement, coordination efficiency, and scalable operation. This paper\nintroduces a comprehensive framework for advancing multi-agent systems through\nModel Context Protocol (MCP), addressing these challenges through standardized\ncontext sharing and coordination mechanisms. We extend previous work on AI\nagent architectures by developing a unified theoretical foundation, advanced\ncontext management techniques, and scalable coordination patterns. Through\ndetailed implementation case studies across enterprise knowledge management,\ncollaborative research, and distributed problem-solving domains, we demonstrate\nsignificant performance improvements compared to traditional approaches. Our\nevaluation methodology provides a systematic assessment framework with\nbenchmark tasks and datasets specifically designed for multi-agent systems. We\nidentify current limitations, emerging research opportunities, and potential\ntransformative applications across industries. This work contributes to the\nevolution of more capable, collaborative, and context-aware artificial\nintelligence systems that can effectively address complex real-world\nchallenges."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "context management"
+                    },
+                    {
+                        "name": "agent architectures"
+                    },
+                    {
+                        "name": "multi agent"
+                    },
+                    {
+                        "name": "ai agent"
+                    },
+                    {
+                        "name": "context aware"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagents_papers\\papers_multiagents adv\\2504.21030v1.pdf",
+        "arxiv_id": "2504.21030v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Multi-agent robotic systems and exploration algorithms: Applications for data collection in construction sites"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2023-11-02"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Samuel A. Prieto, Nikolaos Giakoumidis, Borja Garcia de Soto"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "The construction industry has been notoriously slow to adopt new technology\nand embrace automation. This has resulted in lower efficiency and productivity\ncompared to other industries where automation has been widely adopted. However,\nrecent advancements in robotics and artificial intelligence offer a potential\nsolution to this problem. In this study, a methodology is proposed to integrate\nmulti-robotic systems in construction projects with the aim of increasing\nefficiency and productivity. The proposed approach involves the use of multiple\nrobot and human agents working collaboratively to complete a construction task.\nThe methodology was tested through a case study that involved 3D digitization\nof a small, occluded space using two robots and one human agent. The results\nshow that integrating multi-agent robotic systems in construction can\neffectively overcome challenges and complete tasks efficiently. The\nimplications of this study suggest that multi-agent robotic systems could\nrevolutionize the industry."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "multiple robot"
+                    },
+                    {
+                        "name": "multi robotic"
+                    },
+                    {
+                        "name": "agent robotic"
+                    },
+                    {
+                        "name": "two robots"
+                    },
+                    {
+                        "name": "robot and"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagents_papers\\papers_multiagents adv\\2311.01078v1.pdf",
+        "arxiv_id": "2311.01078v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A Framework for Objective-Driven Dynamical Stochastic Fields"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2025-04-18"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Yibo Jacky Zhang, Sanmi Koyejo"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Fields offer a versatile approach for describing complex systems composed of\ninteracting and dynamic components. In particular, some of these dynamical and\nstochastic systems may exhibit goal-directed behaviors aimed at achieving\nspecific objectives, which we refer to as $\\textit{intelligent fields}$.\nHowever, due to their inherent complexity, it remains challenging to develop a\nformal theoretical description of such systems and to effectively translate\nthese descriptions into practical applications. In this paper, we propose three\nfundamental principles -- complete configuration, locality, and purposefulness\n-- to establish a theoretical framework for understanding intelligent fields.\nMoreover, we explore methodologies for designing such fields from the\nperspective of artificial intelligence applications. This initial investigation\naims to lay the groundwork for future theoretical developments and practical\nadvances in understanding and harnessing the potential of such objective-driven\ndynamical stochastic fields."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "stochastic fields"
+                    },
+                    {
+                        "name": "stochastic systems"
+                    },
+                    {
+                        "name": "intelligent fields"
+                    },
+                    {
+                        "name": "dynamical stochastic"
+                    },
+                    {
+                        "name": "driven dynamical"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagents_papers\\papers_multiagents adv\\2504.16115v1.pdf",
+        "arxiv_id": "2504.16115v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Computational Experiments: Past, Present and Future"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2022-02-28"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Xiao Xue, Xiang-Ning Yu, De-Yu Zhou, Xiao Wang, Zhang-Bin Zhou, Fei-Yue Wang"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Powered by advanced information technology, more and more complex systems are\nexhibiting characteristics of the Cyber-Physical-Social Systems (CPSS).\nUnderstanding the mechanism of CPSS is essential to our ability to control\ntheir actions, reap their benefits and minimize their harms. In consideration\nof the cost, legal and institutional constraints on the study of CPSS in real\nworld, computational experiments have emerged as a new method for quantitative\nanalysis of CPSS. This paper outlines computational experiments from several\nkey aspects, including origin, characteristics, methodological framework, key\ntechnologies, and some typical applications. Finally, this paper highlights\nsome challenges of computational experiments to provide a roadmap for its rapid\ndevelopment and widespread application."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "social systems"
+                    },
+                    {
+                        "name": "cyber physical"
+                    },
+                    {
+                        "name": "physical social"
+                    },
+                    {
+                        "name": "the cyber"
+                    },
+                    {
+                        "name": "cyber"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagents_papers\\papers_multiagents adv\\2202.13690v1.pdf",
+        "arxiv_id": "2202.13690v1"
+    }
+]

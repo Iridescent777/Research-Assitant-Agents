@@ -1,0 +1,120 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "TOM: A Development Platform For Wearable Intelligent Assistants"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2024-07-22"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Nuwan Janaka, Shengdong Zhao, David Hsu, Sherisse Tan Jing Wen, Koh Chun Keat"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Advanced digital assistants can significantly enhance task performance,\nreduce user burden, and provide personalized guidance to improve users'\nabilities. However, the development of such intelligent digital assistants\npresents a formidable challenge. To address this, we introduce TOM, a\nconceptual architecture and software platform (https://github.com/TOM-Platform)\ndesigned to support the development of intelligent wearable assistants that are\ncontextually aware of both the user and the environment. This system was\ndeveloped collaboratively with AR/MR researchers, HCI researchers, AI/Robotic\nresearchers, and software developers, and it continues to evolve to meet the\ndiverse requirements of these stakeholders. TOM facilitates the creation of\nintelligent assistive AR applications for daily activities and supports the\nrecording and analysis of user interactions, integration of new devices, and\nthe provision of assistance for various activities. Additionally, we showcase\nseveral proof-of-concept assistive services and discuss the challenges involved\nin developing such services."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "wearable assistants"
+                    },
+                    {
+                        "name": "intelligent assistive"
+                    },
+                    {
+                        "name": "digital assistants"
+                    },
+                    {
+                        "name": "concept assistive"
+                    },
+                    {
+                        "name": "intelligent wearable"
+                    }
+                ]
+            },
+            "Github": {
+                "url": "https://github.com/TOM-Platform)"
+            }
+        },
+        "pdf_path": "multiagent_papers\\multi-agent_research_assistant_c6a76b_20250821_202459\\2405.14601v1.A_FAIR_and_Free_Prompt_based_Research_Assistant\\2405.14601v1.A_FAIR_and_Free_Prompt_based_Research_Assistant.pdf"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Implications of Computer Vision Driven Assistive Technologies Towards Individuals with Visual Impairment"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2019-05-20"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Linda Wang, Alexander Wong"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Computer vision based technology is becoming ubiquitous in society. One\napplication area that has seen an increase in computer vision is assistive\ntechnologies, specifically for those with visual impairment. Research has shown\nthe ability of computer vision models to achieve tasks such provide scene\ncaptions, detect objects and recognize faces. Although assisting individuals\nwith visual impairment with these tasks increases their independence and\nautonomy, concerns over bias, privacy and potential usefulness arise. This\npaper addresses the positive and negative implications computer vision based\nassistive technologies have on individuals with visual impairment, as well as\nconsiderations for computer vision researchers and developers in order to\nmitigate the amount of negative implications."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "visual impairment"
+                    },
+                    {
+                        "name": "assistive technologies"
+                    },
+                    {
+                        "name": "computer vision"
+                    },
+                    {
+                        "name": "vision researchers"
+                    },
+                    {
+                        "name": "vision based"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "multiagent_papers\\multi-agent_research_assistant_c6a76b_20250821_202459\\2407.15523v1.TOM__A_Development_Platform_For_Wearable_Intelligent_Assistants\\2407.15523v1.TOM__A_Development_Platform_For_Wearable_Intelligent_Assistants.pdf"
+    }
+]

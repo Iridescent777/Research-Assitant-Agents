@@ -1,0 +1,302 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Deep Reinforcement Learning in Computer Vision: A Comprehensive Survey"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2021-08-25"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Ngan Le, Vidhiwar Singh Rathour, Kashu Yamazaki, Khoa Luu, Marios Savvides"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Deep reinforcement learning augments the reinforcement learning framework and\nutilizes the powerful representation of deep neural networks. Recent works have\ndemonstrated the remarkable successes of deep reinforcement learning in various\ndomains including finance, medicine, healthcare, video games, robotics, and\ncomputer vision. In this work, we provide a detailed review of recent and\nstate-of-the-art research advances of deep reinforcement learning in computer\nvision. We start with comprehending the theories of deep learning,\nreinforcement learning, and deep reinforcement learning. We then propose a\ncategorization of deep reinforcement learning methodologies and discuss their\nadvantages and limitations. In particular, we divide deep reinforcement\nlearning into seven main categories according to their applications in computer\nvision, i.e. (i)landmark localization (ii) object detection; (iii) object\ntracking; (iv) registration on both 2D image and 3D image volumetric data (v)\nimage segmentation; (vi) videos analysis; and (vii) other applications. Each of\nthese categories is further analyzed with reinforcement learning techniques,\nnetwork design, and performance. Moreover, we provide a comprehensive analysis\nof the existing publicly available datasets and examine source code\navailability. Finally, we present some open issues and discuss future research\ndirections on deep reinforcement learning in computer vision"
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "deep reinforcement"
+                    },
+                    {
+                        "name": "deep neural"
+                    },
+                    {
+                        "name": "learning augments"
+                    },
+                    {
+                        "name": "object tracking"
+                    },
+                    {
+                        "name": "deep learning"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_applications of\\2108.11510v1.pdf",
+        "arxiv_id": "2108.11510v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Transfer Learning in Deep Reinforcement Learning: A Survey"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2020-09-16"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Zhuangdi Zhu, Kaixiang Lin, Anil K. Jain, Jiayu Zhou"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Reinforcement learning is a learning paradigm for solving sequential\ndecision-making problems. Recent years have witnessed remarkable progress in\nreinforcement learning upon the fast development of deep neural networks. Along\nwith the promising prospects of reinforcement learning in numerous domains such\nas robotics and game-playing, transfer learning has arisen to tackle various\nchallenges faced by reinforcement learning, by transferring knowledge from\nexternal expertise to facilitate the efficiency and effectiveness of the\nlearning process. In this survey, we systematically investigate the recent\nprogress of transfer learning approaches in the context of deep reinforcement\nlearning. Specifically, we provide a framework for categorizing the\nstate-of-the-art transfer learning approaches, under which we analyze their\ngoals, methodologies, compatible reinforcement learning backbones, and\npractical applications. We also draw connections between transfer learning and\nother relevant topics from the reinforcement learning perspective and explore\ntheir potential challenges that await future research progress."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "transfer learning"
+                    },
+                    {
+                        "name": "deep reinforcement"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "transferring knowledge"
+                    },
+                    {
+                        "name": "deep neural"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_applications of\\2009.07888v7.pdf",
+        "arxiv_id": "2009.07888v7"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Distributed Deep Reinforcement Learning: A Survey and A Multi-Player Multi-Agent Learning Toolbox"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2022-12-01"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Qiyue Yin, Tongtong Yu, Shengqi Shen, Jun Yang, Meijing Zhao, Kaiqi Huang, Bin Liang, Liang Wang"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "With the breakthrough of AlphaGo, deep reinforcement learning becomes a\nrecognized technique for solving sequential decision-making problems. Despite\nits reputation, data inefficiency caused by its trial and error learning\nmechanism makes deep reinforcement learning hard to be practical in a wide\nrange of areas. Plenty of methods have been developed for sample efficient deep\nreinforcement learning, such as environment modeling, experience transfer, and\ndistributed modifications, amongst which, distributed deep reinforcement\nlearning has shown its potential in various applications, such as\nhuman-computer gaming, and intelligent transportation. In this paper, we\nconclude the state of this exciting field, by comparing the classical\ndistributed deep reinforcement learning methods, and studying important\ncomponents to achieve efficient distributed learning, covering single player\nsingle agent distributed deep reinforcement learning to the most complex\nmultiple players multiple agents distributed deep reinforcement learning.\nFurthermore, we review recently released toolboxes that help to realize\ndistributed deep reinforcement learning without many modifications of their\nnon-distributed versions. By analyzing their strengths and weaknesses, a\nmulti-player multi-agent distributed deep reinforcement learning toolbox is\ndeveloped and released, which is further validated on Wargame, a complex\nenvironment, showing usability of the proposed toolbox for multiple players and\nmultiple agents distributed deep reinforcement learning under complex games.\nFinally, we try to point out challenges and future trends, hoping this brief\nreview can provide a guide or a spark for researchers who are interested in\ndistributed deep reinforcement learning."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "distributed deep"
+                    },
+                    {
+                        "name": "distributed learning"
+                    },
+                    {
+                        "name": "agent distributed"
+                    },
+                    {
+                        "name": "deep reinforcement"
+                    },
+                    {
+                        "name": "agents distributed"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_applications of\\2212.00253v1.pdf",
+        "arxiv_id": "2212.00253v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A Survey Analyzing Generalization in Deep Reinforcement Learning"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2024-01-04"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Ezgi Korkmaz"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Reinforcement learning research obtained significant success and attention\nwith the utilization of deep neural networks to solve problems in high\ndimensional state or action spaces. While deep reinforcement learning policies\nare currently being deployed in many different fields from medical applications\nto large language models, there are still ongoing questions the field is trying\nto answer on the generalization capabilities of deep reinforcement learning\npolicies. In this paper, we will formalize and analyze generalization in deep\nreinforcement learning. We will explain the fundamental reasons why deep\nreinforcement learning policies encounter overfitting problems that limit their\ngeneralization capabilities. Furthermore, we will categorize and explain the\nmanifold solution approaches to increase generalization, and overcome\noverfitting in deep reinforcement learning policies. From exploration to\nadversarial analysis and from regularization to robustness our paper provides\nan analysis on a wide range of subfields within deep reinforcement learning\nwith a broad scope and in-depth view. We believe our study can provide a\ncompact guideline for the current advancements in deep reinforcement learning,\nand help to construct robust deep neural policies with higher generalization\nskills."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "deep reinforcement"
+                    },
+                    {
+                        "name": "neural policies"
+                    },
+                    {
+                        "name": "learning policies"
+                    },
+                    {
+                        "name": "deep neural"
+                    },
+                    {
+                        "name": "robust deep"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_applications of\\2401.02349v2.pdf",
+        "arxiv_id": "2401.02349v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Applications of Deep Reinforcement Learning in Communications and Networking: A Survey"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2018-10-18"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Nguyen Cong Luong, Dinh Thai Hoang, Shimin Gong, Dusit Niyato, Ping Wang, Ying-Chang Liang, Dong In Kim"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "This paper presents a comprehensive literature review on applications of deep\nreinforcement learning in communications and networking. Modern networks, e.g.,\nInternet of Things (IoT) and Unmanned Aerial Vehicle (UAV) networks, become\nmore decentralized and autonomous. In such networks, network entities need to\nmake decisions locally to maximize the network performance under uncertainty of\nnetwork environment. Reinforcement learning has been efficiently used to enable\nthe network entities to obtain the optimal policy including, e.g., decisions or\nactions, given their states when the state and action spaces are small.\nHowever, in complex and large-scale networks, the state and action spaces are\nusually large, and the reinforcement learning may not be able to find the\noptimal policy in reasonable time. Therefore, deep reinforcement learning, a\ncombination of reinforcement learning with deep learning, has been developed to\novercome the shortcomings. In this survey, we first give a tutorial of deep\nreinforcement learning from fundamental concepts to advanced models. Then, we\nreview deep reinforcement learning approaches proposed to address emerging\nissues in communications and networking. The issues include dynamic network\naccess, data rate control, wireless caching, data offloading, network security,\nand connectivity preservation which are all important to next generation\nnetworks such as 5G and beyond. Furthermore, we present applications of deep\nreinforcement learning for traffic routing, resource sharing, and data\ncollection. Finally, we highlight important challenges, open issues, and future\nresearch directions of applying deep reinforcement learning."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "uav networks"
+                    },
+                    {
+                        "name": "deep reinforcement"
+                    },
+                    {
+                        "name": "networks internet"
+                    },
+                    {
+                        "name": "dynamic network"
+                    },
+                    {
+                        "name": "networks network"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_applications of\\1810.07862v1.pdf",
+        "arxiv_id": "1810.07862v1"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Ethical AI in the Healthcare Sector: Investigating Key Drivers of Adoption through the Multi-Dimensional Ethical AI Adoption Model (MEAAM)"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2025-05-04"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Prathamesh Muzumdar, Apoorva Muley, Kuldeep Singh, Sumanth Cheemalapati"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "The adoption of Artificial Intelligence (AI) in the healthcare service\nindustry presents numerous ethical challenges, yet current frameworks often\nfail to offer a comprehensive, empirical understanding of the multidimensional\nfactors influencing ethical AI integration. Addressing this critical research\ngap, this study introduces the Multi-Dimensional Ethical AI Adoption Model\n(MEAAM), a novel theoretical framework that categorizes 13 critical ethical\nvariables across four foundational dimensions of Ethical AI Fair AI,\nResponsible AI, Explainable AI, and Sustainable AI. These dimensions are\nfurther analyzed through three core ethical lenses: epistemic concerns (related\nto knowledge, transparency, and system trustworthiness), normative concerns\n(focused on justice, autonomy, dignity, and moral obligations), and overarching\nconcerns (highlighting global, systemic, and long-term ethical implications).\nThis study adopts a quantitative, cross-sectional research design using survey\ndata collected from healthcare professionals and analyzed via Partial Least\nSquares Structural Equation Modeling (PLS-SEM). Employing PLS-SEM, this study\nempirically investigates the influence of these ethical constructs on two\noutcomes Operational AI Adoption and Systemic AI Adoption. Results indicate\nthat normative concerns most significantly drive operational adoption\ndecisions, while overarching concerns predominantly shape systemic adoption\nstrategies and governance frameworks. Epistemic concerns play a facilitative\nrole, enhancing the impact of ethical design principles on trust and\ntransparency in AI systems. By validating the MEAAM framework, this research\nadvances a holistic, actionable approach to ethical AI adoption in healthcare\nand provides critical insights for policymakers, technologists, and healthcare\nadministrators striving to implement ethically grounded AI solutions."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "ethical ai"
+                    },
+                    {
+                        "name": "influencing ethical"
+                    },
+                    {
+                        "name": "term ethical"
+                    },
+                    {
+                        "name": "ethical variables"
+                    },
+                    {
+                        "name": "ai adoption"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\AI_ethics_healthcare_papers\\papers_AI ethics in he\\2505.02062v1.pdf",
+        "arxiv_id": "2505.02062v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "AI Ethics in Smart Healthcare"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2022-11-02"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Sudeep Pasricha"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "This article reviews the landscape of ethical challenges of integrating\nartificial intelligence (AI) into smart healthcare products, including medical\nelectronic devices. Differences between traditional ethics in the medical\ndomain and emerging ethical challenges with AI-driven healthcare are presented,\nparticularly as they relate to transparency, bias, privacy, safety,\nresponsibility, justice, and autonomy. Open challenges and recommendations are\noutlined to enable the integration of ethical principles into the design,\nvalidation, clinical trials, deployment, monitoring, repair, and retirement of\nAI-based smart healthcare products."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "smart healthcare"
+                    },
+                    {
+                        "name": "ethical challenges"
+                    },
+                    {
+                        "name": "ethical"
+                    },
+                    {
+                        "name": "ethics"
+                    },
+                    {
+                        "name": "medical electronic"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\AI_ethics_healthcare_papers\\papers_AI ethics in he\\2211.06346v1.pdf",
+        "arxiv_id": "2211.06346v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Towards A Unified Utilitarian Ethics Framework for Healthcare Artificial Intelligence"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2023-09-26"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Forhan Bin Emdad, Shuyuan Mary Ho, Benhur Ravuri, Shezin Hussain"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Artificial Intelligence (AI) aims to elevate healthcare to a pinnacle by\naiding clinical decision support. Overcoming the challenges related to the\ndesign of ethical AI will enable clinicians, physicians, healthcare\nprofessionals, and other stakeholders to use and trust AI in healthcare\nsettings. This study attempts to identify the major ethical principles\ninfluencing the utility performance of AI at different technological levels\nsuch as data access, algorithms, and systems through a thematic analysis. We\nobserved that justice, privacy, bias, lack of regulations, risks, and\ninterpretability are the most important principles to consider for ethical AI.\nThis data-driven study has analyzed secondary survey data from the Pew Research\nCenter (2020) of 36 AI experts to categorize the top ethical principles of AI\ndesign. To resolve the ethical issues identified by the meta-analysis and\ndomain experts, we propose a new utilitarian ethics-based theoretical framework\nfor designing ethical AI for the healthcare domain."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "ethical ai"
+                    },
+                    {
+                        "name": "designing ethical"
+                    },
+                    {
+                        "name": "ethical"
+                    },
+                    {
+                        "name": "ethics based"
+                    },
+                    {
+                        "name": "trust ai"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\AI_ethics_healthcare_papers\\papers_AI ethics in he\\2309.14617v1.pdf",
+        "arxiv_id": "2309.14617v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Data Ethics in the Era of Healthcare Artificial Intelligence in Africa: An Ubuntu Philosophy Perspective"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2024-06-14"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Abdoul Jalil Djiberou Mahamadou, Aloysius Ochasi, Russ B. Altman"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Data are essential in developing healthcare artificial intelligence (AI)\nsystems. However, patient data collection, access, and use raise ethical\nconcerns, including informed consent, data bias, data protection and privacy,\ndata ownership, and benefit sharing. Various ethical frameworks have been\nproposed to ensure the ethical use of healthcare data and AI, however, these\nframeworks often align with Western cultural values, social norms, and\ninstitutional contexts emphasizing individual autonomy and well-being. Ethical\nguidelines must reflect political and cultural settings to account for cultural\ndiversity, inclusivity, and historical factors such as colonialism. Thus, this\npaper discusses healthcare data ethics in the AI era in Africa from the Ubuntu\nphilosophy perspective. It focuses on the contrast between individualistic and\ncommunitarian approaches to data ethics. The proposed framework could inform\nstakeholders, including AI developers, healthcare providers, the public, and\npolicy-makers about healthcare data ethical usage in AI in Africa."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "data ethics"
+                    },
+                    {
+                        "name": "data ethical"
+                    },
+                    {
+                        "name": "healthcare data"
+                    },
+                    {
+                        "name": "patient data"
+                    },
+                    {
+                        "name": "consent data"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\AI_ethics_healthcare_papers\\papers_AI ethics in he\\2406.10121v1.pdf",
+        "arxiv_id": "2406.10121v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "From Military to Healthcare: Adopting and Expanding Ethical Principles for Generative Artificial Intelligence"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2023-08-04"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "David Oniani, Jordan Hilsman, Yifan Peng, COL, Ronald K. Poropatich, COL Jeremy C. Pamplin, LTC Gary L. Legault, Yanshan Wang"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "In 2020, the U.S. Department of Defense officially disclosed a set of ethical\nprinciples to guide the use of Artificial Intelligence (AI) technologies on\nfuture battlefields. Despite stark differences, there are core similarities\nbetween the military and medical service. Warriors on battlefields often face\nlife-altering circumstances that require quick decision-making. Medical\nproviders experience similar challenges in a rapidly changing healthcare\nenvironment, such as in the emergency department or during surgery treating a\nlife-threatening condition. Generative AI, an emerging technology designed to\nefficiently generate valuable information, holds great promise. As computing\npower becomes more accessible and the abundance of health data, such as\nelectronic health records, electrocardiograms, and medical images, increases,\nit is inevitable that healthcare will be revolutionized by this technology.\nRecently, generative AI has captivated the research community, leading to\ndebates about its application in healthcare, mainly due to concerns about\ntransparency and related issues. Meanwhile, concerns about the potential\nexacerbation of health disparities due to modeling biases have raised notable\nethical concerns regarding the use of this technology in healthcare. However,\nthe ethical principles for generative AI in healthcare have been understudied,\nand decision-makers often fail to consider the significance of generative AI.\nIn this paper, we propose GREAT PLEA ethical principles, encompassing\ngovernance, reliability, equity, accountability, traceability, privacy,\nlawfulness, empathy, and autonomy, for generative AI in healthcare. We aim to\nproactively address the ethical dilemmas and challenges posed by the\nintegration of generative AI in healthcare."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "generative ai"
+                    },
+                    {
+                        "name": "ai"
+                    },
+                    {
+                        "name": "electronic health"
+                    },
+                    {
+                        "name": "ai technologies"
+                    },
+                    {
+                        "name": "ai in"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\AI_ethics_healthcare_papers\\papers_AI ethics in he\\2308.02448v1.pdf",
+        "arxiv_id": "2308.02448v1"
+    }
+]

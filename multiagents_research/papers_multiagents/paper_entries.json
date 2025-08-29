@@ -1,0 +1,242 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Deep Multiagent Reinforcement Learning: Challenges and Directions"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2021-06-29"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Annie Wong, Thomas B\u00e4ck, Anna V. Kononova, Aske Plaat"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "This paper surveys the field of deep multiagent reinforcement learning. The\ncombination of deep neural networks with reinforcement learning has gained\nincreased traction in recent years and is slowly shifting the focus from\nsingle-agent to multiagent environments. Dealing with multiple agents is\ninherently more complex as (a) the future rewards depend on multiple players'\njoint actions and (b) the computational complexity increases. We present the\nmost common multiagent problem representations and their main challenges, and\nidentify five research areas that address one or more of these challenges:\ncentralised training and decentralised execution, opponent modelling,\ncommunication, efficient coordination, and reward shaping. We find that many\ncomputational studies rely on unrealistic assumptions or are not generalisable\nto other settings; they struggle to overcome the curse of dimensionality or\nnonstationarity. Approaches from psychology and sociology capture promising\nrelevant behaviours, such as communication and coordination, to help agents\nachieve better performance in multiagent settings. We suggest that, for\nmultiagent reinforcement learning to be successful, future research should\naddress these challenges with an interdisciplinary approach to open up new\npossibilities in multiagent reinforcement learning."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "multiagent reinforcement"
+                    },
+                    {
+                        "name": "deep multiagent"
+                    },
+                    {
+                        "name": "multiagent"
+                    },
+                    {
+                        "name": "multiple agents"
+                    },
+                    {
+                        "name": "to multiagent"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagents_research\\papers_multiagents\\2106.15691v2.pdf",
+        "arxiv_id": "2106.15691v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Weighted Double Deep Multiagent Reinforcement Learning in Stochastic Cooperative Environments"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2018-02-23"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Yan Zheng, Jianye Hao, Zongzhang Zhang"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Recently, multiagent deep reinforcement learning (DRL) has received\nincreasingly wide attention. Existing multiagent DRL algorithms are inefficient\nwhen facing with the non-stationarity due to agents update their policies\nsimultaneously in stochastic cooperative environments. This paper extends the\nrecently proposed weighted double estimator to the multiagent domain and\npropose a multiagent DRL framework, named weighted double deep Q-network\n(WDDQN). By utilizing the weighted double estimator and the deep neural\nnetwork, WDDQN can not only reduce the bias effectively but also be extended to\nscenarios with raw visual inputs. To achieve efficient cooperation in the\nmultiagent domain, we introduce the lenient reward network and the scheduled\nreplay strategy. Experiments show that the WDDQN outperforms the existing DRL\nand multiaent DRL algorithms, i.e., double DQN and lenient Q-learning, in terms\nof the average reward and the convergence rate in stochastic cooperative\nenvironments."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "multiagent deep"
+                    },
+                    {
+                        "name": "deep reinforcement"
+                    },
+                    {
+                        "name": "double dqn"
+                    },
+                    {
+                        "name": "reward network"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagents_research\\papers_multiagents\\1802.08534v2.pdf",
+        "arxiv_id": "1802.08534v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A Cooperation Graph Approach for Multiagent Sparse Reward Reinforcement Learning"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2022-08-05"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Qingxu Fu, Tenghai Qiu, Zhiqiang Pu, Jianqiang Yi, Wanmai Yuan"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Multiagent reinforcement learning (MARL) can solve complex cooperative tasks.\nHowever, the efficiency of existing MARL methods relies heavily on well-defined\nreward functions. Multiagent tasks with sparse reward feedback are especially\nchallenging not only because of the credit distribution problem, but also due\nto the low probability of obtaining positive reward feedback. In this paper, we\ndesign a graph network called Cooperation Graph (CG). The Cooperation Graph is\nthe combination of two simple bipartite graphs, namely, the Agent Clustering\nsubgraph (ACG) and the Cluster Designating subgraph (CDG). Next, based on this\nnovel graph structure, we propose a Cooperation Graph Multiagent Reinforcement\nLearning (CG-MARL) algorithm, which can efficiently deal with the sparse reward\nproblem in multiagent tasks. In CG-MARL, agents are directly controlled by the\nCooperation Graph. And a policy neural network is trained to manipulate this\nCooperation Graph, guiding agents to achieve cooperation in an implicit way.\nThis hierarchical feature of CG-MARL provides space for customized\ncluster-actions, an extensible interface for introducing fundamental\ncooperation knowledge. In experiments, CG-MARL shows state-of-the-art\nperformance in sparse reward multiagent benchmarks, including the anti-invasion\ninterception task and the multi-cargo delivery task."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "reward multiagent"
+                    },
+                    {
+                        "name": "cooperation graph"
+                    },
+                    {
+                        "name": "multiagent reinforcement"
+                    },
+                    {
+                        "name": "graph multiagent"
+                    },
+                    {
+                        "name": "sparse reward"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagents_research\\papers_multiagents\\2208.03002v1.pdf",
+        "arxiv_id": "2208.03002v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Resource Abstraction for Reinforcement Learning in Multiagent Congestion Problems"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2019-03-13"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Kleanthis Malialis, Sam Devlin, Daniel Kudenko"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Real-world congestion problems (e.g. traffic congestion) are typically very\ncomplex and large-scale. Multiagent reinforcement learning (MARL) is a\npromising candidate for dealing with this emerging complexity by providing an\nautonomous and distributed solution to these problems. However, there are three\nlimiting factors that affect the deployability of MARL approaches to congestion\nproblems. These are learning time, scalability and decentralised coordination\ni.e. no communication between the learning agents. In this paper we introduce\nResource Abstraction, an approach that addresses these challenges by allocating\nthe available resources into abstract groups. This abstraction creates new\nreward functions that provide a more informative signal to the learning agents\nand aid the coordination amongst them. Experimental work is conducted on two\nbenchmark domains from the literature, an abstract congestion problem and a\nrealistic traffic congestion problem. The current state-of-the-art for solving\nmultiagent congestion problems is a form of reward shaping called difference\nrewards. We show that the system using Resource Abstraction significantly\nimproves the learning speed and scalability, and achieves the highest possible\nor near-highest joint performance/social welfare for both congestion problems\nin large-scale scenarios involving up to 1000 reinforcement learning agents."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "multiagent congestion"
+                    },
+                    {
+                        "name": "multiagent reinforcement"
+                    },
+                    {
+                        "name": "traffic congestion"
+                    },
+                    {
+                        "name": "abstract congestion"
+                    },
+                    {
+                        "name": "learning agents"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagents_research\\papers_multiagents\\1903.05431v1.pdf",
+        "arxiv_id": "1903.05431v1"
+    }
+]

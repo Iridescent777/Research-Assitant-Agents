@@ -1,0 +1,8 @@
+2025-08-28 17:46:24,532 - WARNING - From C:\Users\Iridescent\anaconda3\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-08-28 17:46:25,117 - INFO - Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-08-28 17:46:25,117 - INFO - NumExpr defaulting to 8 threads.
+2025-08-28 17:46:27,724 - INFO - Created project directory: D:\PJLAB\Agent\final_project\result\multiagent_project
+2025-08-28 17:46:27,725 - INFO - Created writing sources directory: D:\PJLAB\Agent\final_project\result\multiagent_papers
+2025-08-28 17:46:27,727 - WARNING - No .bib file found in the writing sources directory and its subdirectories.
+2025-08-28 17:46:27,727 - WARNING - No BibTeX file found. Using empty bibliography.

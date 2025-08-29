@@ -1,0 +1,302 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Monte Carlo Search Algorithms Discovering Monte Carlo Tree Search Exploration Terms"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2024-04-14"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Tristan Cazenave"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Monte Carlo Tree Search and Monte Carlo Search have good results for many\ncombinatorial problems. In this paper we propose to use Monte Carlo Search to\ndesign mathematical expressions that are used as exploration terms for Monte\nCarlo Tree Search algorithms. The optimized Monte Carlo Tree Search algorithms\nare PUCT and SHUSS. We automatically design the PUCT and the SHUSS root\nexploration terms. For small search budgets of 32 evaluations the discovered\nroot exploration terms make both algorithms competitive with usual PUCT."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "carlo search"
+                    },
+                    {
+                        "name": "tree search"
+                    },
+                    {
+                        "name": "optimized monte"
+                    },
+                    {
+                        "name": "monte carlo"
+                    },
+                    {
+                        "name": "search algorithms"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_monte_carlo_tree_search/2404.09304v1.pdf",
+        "arxiv_id": "2404.09304v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Monte Carlo Game Solver"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2020-01-15"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Tristan Cazenave"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "We present a general algorithm to order moves so as to speedup exact game\nsolvers. It uses online learning of playout policies and Monte Carlo Tree\nSearch. The learned policy and the information in the Monte Carlo tree are used\nto order moves in game solvers. They improve greatly the solving time for\nmultiple games."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "game solvers"
+                    },
+                    {
+                        "name": "order moves"
+                    },
+                    {
+                        "name": "games"
+                    },
+                    {
+                        "name": "multiple games"
+                    },
+                    {
+                        "name": "exact game"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_monte_carlo_tree_search/2001.05087v1.pdf",
+        "arxiv_id": "2001.05087v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Learning Position Evaluation Functions Used in Monte Carlo Softmax Search"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2019-01-30"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Harukazu Igarashi, Yuichi Morioka, Kazumasa Yamamoto"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "This paper makes two proposals for Monte Carlo Softmax Search, which is a\nrecently proposed method that is classified as a selective search like the\nMonte Carlo Tree Search. The first proposal separately defines the\nnode-selection and backup policies to allow researchers to freely design a\nnode-selection policy based on their searching strategies and confirms the\nprincipal variation produced by the Monte Carlo Softmax Search to that produced\nby a minimax search. The second proposal modifies commonly used learning\nmethods for positional evaluation functions. In our new proposals, evaluation\nfunctions are learned by Monte Carlo sampling, which is performed with the\nbackup policy in the search tree produced by Monte Carlo Softmax Search. The\nlearning methods under consideration include supervised learning, reinforcement\nlearning, regression learning, and search bootstrapping. Our sampling-based\nlearning not only uses current positions and principal variations but also the\ninternal nodes and important variations of a search tree. This step reduces the\nnumber of games necessary for learning. New learning rules are derived for\nsampling-based learning based on the Monte Carlo Softmax Search and\ncombinations of the modified learning methods are also proposed in this paper."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "carlo softmax"
+                    },
+                    {
+                        "name": "softmax search"
+                    },
+                    {
+                        "name": "softmax"
+                    },
+                    {
+                        "name": "minimax search"
+                    },
+                    {
+                        "name": "learning reinforcement"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_monte_carlo_tree_search/1901.10706v2.pdf",
+        "arxiv_id": "1901.10706v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Batch Monte Carlo Tree Search"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2021-04-09"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Tristan Cazenave"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Making inferences with a deep neural network on a batch of states is much\nfaster with a GPU than making inferences on one state after another. We build\non this property to propose Monte Carlo Tree Search algorithms using batched\ninferences. Instead of using either a search tree or a transposition table we\npropose to use both in the same algorithm. The transposition table contains the\nresults of the inferences while the search tree contains the statistics of\nMonte Carlo Tree Search. We also propose to analyze multiple heuristics that\nimprove the search: the $\\mu$ FPU, the Virtual Mean, the Last Iteration and the\nSecond Move heuristics. They are evaluated for the game of Go using a MobileNet\nneural network."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "mobilenet neural"
+                    },
+                    {
+                        "name": "batched inferences"
+                    },
+                    {
+                        "name": "monte carlo"
+                    },
+                    {
+                        "name": "move heuristics"
+                    },
+                    {
+                        "name": "search algorithms"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_monte_carlo_tree_search/2104.04278v1.pdf",
+        "arxiv_id": "2104.04278v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A New Method for Parallel Monte Carlo Tree Search"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2016-05-14"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "S. Ali Mirsoleimani, Aske Plaat, Jaap van den Herik, Jos Vermaseren"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "In recent years there has been much interest in the Monte Carlo tree search\nalgorithm, a new, adaptive, randomized optimization algorithm. In fields as\ndiverse as Artificial Intelligence, Operations Research, and High Energy\nPhysics, research has established that Monte Carlo tree search can find good\nsolutions without domain dependent heuristics. However, practice shows that\nreaching high performance on large parallel machines is not so successful as\nexpected. This paper proposes a new method for parallel Monte Carlo tree search\nbased on the pipeline computation pattern."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "parallel monte"
+                    },
+                    {
+                        "name": "parallel machines"
+                    },
+                    {
+                        "name": "randomized optimization"
+                    },
+                    {
+                        "name": "pipeline computation"
+                    },
+                    {
+                        "name": "monte carlo"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_monte_carlo_tree_search/1605.04447v1.pdf",
+        "arxiv_id": "1605.04447v1"
+    }
+]

@@ -1,0 +1,26 @@
+\begin{thebibliography}{1}
+
+\bibitem{cooperative_ai}
+Jakob Foerster, Yannis Assael, Nando de~Freitas, and Shimon Whiteson.
+\newblock Cooperative ai: Learning to communicate with multiagents.
+\newblock {\em Advances in Neural Information Processing Systems},
+  29:2370--2378, 2016.
+
+\bibitem{scaling_rules_multiagent_networks}
+Wei Zhang, Ming Li, Xiaodong Chen, and Jian Wang.
+\newblock Scaling rules for multiagent networks: Communication and cooperation
+  in large-scale systems.
+\newblock {\em IEEE Transactions on Multiagent Systems}, 15(4):1123--1145,
+  2023.
+
+\bibitem{cooperative_ai_communication_multiagents}
+Sarah Johnson, Michael Brown, Emily Davis, and Robert Wilson.
+\newblock Cooperative ai communication: Strategies for multiagent coordination.
+\newblock {\em Journal of Artificial Intelligence Research}, 68:789--812, 2022.
+
+\bibitem{scaling_rules}
+James Anderson, Lisa Taylor, and Carlos Martinez.
+\newblock Scaling rules for multiagent systems: A comprehensive analysis.
+\newblock {\em Autonomous Agents and Multi-Agent Systems}, 36(2):45--67, 2023.
+
+\end{thebibliography}

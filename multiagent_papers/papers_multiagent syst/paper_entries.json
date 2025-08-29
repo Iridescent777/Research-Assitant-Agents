@@ -1,0 +1,542 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Collaborative systems and multiagent systems"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2009-04-23"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Alin Munteanu, Cristina Ofelia Sofran"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "This paper presents some basic elements regarding the domain of the\ncollaborative systems, a domain of maximum actuality and also the multiagent\nsystems, developed as a result of a sound study on the one-agent systems."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "multiagent systems"
+                    },
+                    {
+                        "name": "the multiagent"
+                    },
+                    {
+                        "name": "multiagent"
+                    },
+                    {
+                        "name": "agent systems"
+                    },
+                    {
+                        "name": "collaborative systems"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagent_papers\\papers_multiagent syst\\0904.3669v1.pdf",
+        "arxiv_id": "0904.3669v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "The Total s-Energy of a Multiagent System"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2010-04-09"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Bernard Chazelle"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "We introduce the \"total s-energy\" of a multiagent system with time-dependent\nlinks. This provides a new analytical lens on bidirectional agreement dynamics,\nwhich we use to bound the convergence rates of dynamical systems for\nsynchronization, flocking, opinion dynamics, and social epistemology."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "agreement dynamics"
+                    },
+                    {
+                        "name": "synchronization flocking"
+                    },
+                    {
+                        "name": "opinion dynamics"
+                    },
+                    {
+                        "name": "multiagent system"
+                    },
+                    {
+                        "name": "of multiagent"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagent_papers\\papers_multiagent syst\\1004.1447v2.pdf",
+        "arxiv_id": "1004.1447v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Deep Multiagent Reinforcement Learning: Challenges and Directions"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2021-06-29"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Annie Wong, Thomas B\u00e4ck, Anna V. Kononova, Aske Plaat"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "This paper surveys the field of deep multiagent reinforcement learning. The\ncombination of deep neural networks with reinforcement learning has gained\nincreased traction in recent years and is slowly shifting the focus from\nsingle-agent to multiagent environments. Dealing with multiple agents is\ninherently more complex as (a) the future rewards depend on multiple players'\njoint actions and (b) the computational complexity increases. We present the\nmost common multiagent problem representations and their main challenges, and\nidentify five research areas that address one or more of these challenges:\ncentralised training and decentralised execution, opponent modelling,\ncommunication, efficient coordination, and reward shaping. We find that many\ncomputational studies rely on unrealistic assumptions or are not generalisable\nto other settings; they struggle to overcome the curse of dimensionality or\nnonstationarity. Approaches from psychology and sociology capture promising\nrelevant behaviours, such as communication and coordination, to help agents\nachieve better performance in multiagent settings. We suggest that, for\nmultiagent reinforcement learning to be successful, future research should\naddress these challenges with an interdisciplinary approach to open up new\npossibilities in multiagent reinforcement learning."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "multiagent reinforcement"
+                    },
+                    {
+                        "name": "deep multiagent"
+                    },
+                    {
+                        "name": "multiagent"
+                    },
+                    {
+                        "name": "multiple agents"
+                    },
+                    {
+                        "name": "to multiagent"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagent_papers\\papers_multiagent syst\\2106.15691v2.pdf",
+        "arxiv_id": "2106.15691v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "The Dynamics of Influence Systems"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2012-04-17"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Bernard Chazelle"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Influence systems form a large class of multiagent systems designed to model\nhow influence, broadly defined, spreads across a dynamic network. We build a\ngeneral analytical framework which we then use to prove that, while sometimes\nchaotic, influence dynamics of the diffusive kind is almost always\nasymptotically periodic. Besides resolving the dynamics of a popular family of\nmultiagent systems, the other contribution of this work is to introduce a new\ntype of renormalization-based bifurcation analysis for multiagent systems."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "influence dynamics"
+                    },
+                    {
+                        "name": "chaotic influence"
+                    },
+                    {
+                        "name": "based bifurcation"
+                    },
+                    {
+                        "name": "bifurcation analysis"
+                    },
+                    {
+                        "name": "bifurcation"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagent_papers\\papers_multiagent syst\\1204.3946v2.pdf",
+        "arxiv_id": "1204.3946v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Agentive Permissions in Multiagent Systems"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2024-04-25"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Qi Shi"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "This paper proposes to distinguish four forms of agentive permissions in\nmultiagent settings. The main technical results are the complexity analysis of\nmodel checking, the semantic undefinability of modalities that capture these\nforms of permissions through each other, and a complete logical system\ncapturing the interplay between these modalities."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "agentive permissions"
+                    },
+                    {
+                        "name": "in multiagent"
+                    },
+                    {
+                        "name": "multiagent"
+                    },
+                    {
+                        "name": "multiagent settings"
+                    },
+                    {
+                        "name": "of permissions"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagent_papers\\papers_multiagent syst\\2404.17053v1.pdf",
+        "arxiv_id": "2404.17053v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A mathematical formalism for agent-based modeling"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2007-12-31"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Reinhard Laubenbacher, Abdul S. Jarrah, Henning Mortveit, S. S. Ravi"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Many complex systems can be modeled as multiagent systems in which the\nconstituent entities (agents) interact with each other. The global dynamics of\nsuch a system is determined by the nature of the local interactions among the\nagents. Since it is difficult to formally analyze complex multiagent systems,\nthey are often studied through computer simulations. While computer simulations\ncan be very useful, results obtained through simulations do not formally\nvalidate the observed behavior. Thus, there is a need for a mathematical\nframework which one can use to represent multiagent systems and formally\nestablish their properties. This work contains a brief exposition of some known\nmathematical frameworks that can model multiagent systems. The focus is on one\nsuch framework, namely that of finite dynamical systems. Both, deterministic\nand stochastic versions of this framework are discussed. The paper contains a\nsampling of the mathematical results from the literature to show how finite\ndynamical systems can be used to carry out a rigorous study of the properties\nof multiagent systems and it is shown how the framework can also serve as a\nuniversal model for computation."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "multiagent systems"
+                    },
+                    {
+                        "name": "model multiagent"
+                    },
+                    {
+                        "name": "represent multiagent"
+                    },
+                    {
+                        "name": "complex multiagent"
+                    },
+                    {
+                        "name": "agents interact"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagent_papers\\papers_multiagent syst\\0801.0249v1.pdf",
+        "arxiv_id": "0801.0249v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Resource Abstraction for Reinforcement Learning in Multiagent Congestion Problems"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2019-03-13"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Kleanthis Malialis, Sam Devlin, Daniel Kudenko"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Real-world congestion problems (e.g. traffic congestion) are typically very\ncomplex and large-scale. Multiagent reinforcement learning (MARL) is a\npromising candidate for dealing with this emerging complexity by providing an\nautonomous and distributed solution to these problems. However, there are three\nlimiting factors that affect the deployability of MARL approaches to congestion\nproblems. These are learning time, scalability and decentralised coordination\ni.e. no communication between the learning agents. In this paper we introduce\nResource Abstraction, an approach that addresses these challenges by allocating\nthe available resources into abstract groups. This abstraction creates new\nreward functions that provide a more informative signal to the learning agents\nand aid the coordination amongst them. Experimental work is conducted on two\nbenchmark domains from the literature, an abstract congestion problem and a\nrealistic traffic congestion problem. The current state-of-the-art for solving\nmultiagent congestion problems is a form of reward shaping called difference\nrewards. We show that the system using Resource Abstraction significantly\nimproves the learning speed and scalability, and achieves the highest possible\nor near-highest joint performance/social welfare for both congestion problems\nin large-scale scenarios involving up to 1000 reinforcement learning agents."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "multiagent congestion"
+                    },
+                    {
+                        "name": "multiagent reinforcement"
+                    },
+                    {
+                        "name": "traffic congestion"
+                    },
+                    {
+                        "name": "abstract congestion"
+                    },
+                    {
+                        "name": "learning agents"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagent_papers\\papers_multiagent syst\\1903.05431v1.pdf",
+        "arxiv_id": "1903.05431v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A Multiagent Simulation for Traffic Flow Management with Evolutionary Optimization"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2011-08-17"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Patryk Filipiak"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "A traffic flow is one of the main transportation issues in nowadays\nindustrialized agglomerations. Configuration of traffic lights is among the key\naspects in traffic flow management. This paper proposes an evolutionary\noptimization tool that utilizes multiagent simulator in order to obtain\naccurate model. Even though more detailed studies are still necessary, a\npreliminary research gives an expectation for promising results."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "multiagent simulator"
+                    },
+                    {
+                        "name": "traffic flow"
+                    },
+                    {
+                        "name": "evolutionary optimization"
+                    },
+                    {
+                        "name": "multiagent"
+                    },
+                    {
+                        "name": "utilizes multiagent"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagent_papers\\papers_multiagent syst\\1108.3462v1.pdf",
+        "arxiv_id": "1108.3462v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Adaptive Active-Passive Networked Multiagent Systems"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2020-10-06"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Ehsan Arabi, Dimitra Panagou, Tansel Yucelen"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Active-passive multiagent systems consist of agents subject to inputs (active\nagents) and agents with no inputs (passive agents), where active and passive\nagent roles are considered to be interchangeable in order to capture a wide\narray of applications. A challenge in the control of active-passive multiagent\nsystems is the presence of information exchange uncertainties that can yield to\nundesirable closed-loop system performance. Motivated by this standpoint, this\npaper proposes an adaptive control algorithm for this class of multiagent\nsystems to suppress the negative effects of information exchange uncertainties.\nSpecifically, by estimating these uncertainties, the proposed adaptive control\narchitecture has the ability to recover the active-passive multiagent system\nperformance in a distributed manner. As a result, the agents converge to a\nuser-adjustable neighborhood of the average of the applied inputs to the active\nagents. The efficacy of the proposed control architecture is also validated\nfrom a human-robot collaboration perspective, where a human is visiting several\ntask locations, and the multiagent system identifies these locations and moves\ntoward them as a coverage control problem."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "multiagent systems"
+                    },
+                    {
+                        "name": "passive agent"
+                    },
+                    {
+                        "name": "multiagent system"
+                    },
+                    {
+                        "name": "passive agents"
+                    },
+                    {
+                        "name": "active agents"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\multiagent_papers\\papers_multiagent syst\\2010.02412v1.pdf",
+        "arxiv_id": "2010.02412v1"
+    }
+]

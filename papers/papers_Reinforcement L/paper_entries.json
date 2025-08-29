@@ -1,0 +1,302 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Autonomous Soft Tissue Retraction Using Demonstration-Guided Reinforcement Learning"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2023-09-02"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Amritpal Singh, Wenqi Shi, May D Wang"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "In the context of surgery, robots can provide substantial assistance by\nperforming small, repetitive tasks such as suturing, needle exchange, and\ntissue retraction, thereby enabling surgeons to concentrate on more complex\naspects of the procedure. However, existing surgical task learning mainly\npertains to rigid body interactions, whereas the advancement towards more\nsophisticated surgical robots necessitates the manipulation of soft bodies.\nPrevious work focused on tissue phantoms for soft tissue task learning, which\ncan be expensive and can be an entry barrier to research. Simulation\nenvironments present a safe and efficient way to learn surgical tasks before\ntheir application to actual tissue. In this study, we create a Robot Operating\nSystem (ROS)-compatible physics simulation environment with support for both\nrigid and soft body interactions within surgical tasks. Furthermore, we\ninvestigate the soft tissue interactions facilitated by the patient-side\nmanipulator of the DaVinci surgical robot. Leveraging the pybullet physics\nengine, we simulate kinematics and establish anchor points to guide the robotic\narm when manipulating soft tissue. Using demonstration-guided reinforcement\nlearning (RL) algorithms, we investigate their performance in comparison to\ntraditional reinforcement learning algorithms. Our in silico trials demonstrate\na proof-of-concept for autonomous surgical soft tissue retraction. The results\ncorroborate the feasibility of learning soft body manipulation through the\napplication of reinforcement learning agents. This work lays the foundation for\nfuture research into the development and refinement of surgical robots capable\nof managing both rigid and soft tissue interactions. Code is available at\nhttps://github.com/amritpal-001/tissue_retract."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "surgical robots"
+                    },
+                    {
+                        "name": "surgical robot"
+                    },
+                    {
+                        "name": "surgery robots"
+                    },
+                    {
+                        "name": "autonomous surgical"
+                    },
+                    {
+                        "name": "body manipulation"
+                    }
+                ]
+            },
+            "Github": {
+                "url": "https://github.com/amritpal-001/tissue_retract."
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_Reinforcement L\\2309.00837v1.pdf",
+        "arxiv_id": "2309.00837v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Physics-based Deep Learning"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2021-09-11"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "N. Thuerey, B. Holzschuh, P. Holl, G. Kohl, M. Lino, Q. Liu, P. Schnell, F. Trost"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "This document is a hands-on, comprehensive guide to deep learning in the\nrealm of physical simulations. Rather than just theory, we emphasize practical\napplication: every concept is paired with interactive Jupyter notebooks to get\nyou up and running quickly. Beyond traditional supervised learning, we dive\ninto physical loss-constraints, differentiable simulations, diffusion-based\napproaches for probabilistic generative AI, as well as reinforcement learning\nand advanced neural network architectures. These foundations are paving the way\nfor the next generation of scientific foundation models. We are living in an\nera of rapid transformation. These methods have the potential to redefine\nwhat's possible in computational science."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "physical simulations"
+                    },
+                    {
+                        "name": "simulations diffusion"
+                    },
+                    {
+                        "name": "simulations"
+                    },
+                    {
+                        "name": "differentiable simulations"
+                    },
+                    {
+                        "name": "deep learning"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_Reinforcement L\\2109.05237v4.pdf",
+        "arxiv_id": "2109.05237v4"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "A Practical Introduction to Deep Reinforcement Learning"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2025-05-13"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Yinghan Sun, Hongxi Wang, Hua Chen, Wei Zhang"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Deep reinforcement learning (DRL) has emerged as a powerful framework for\nsolving sequential decision-making problems, achieving remarkable success in a\nwide range of applications, including game AI, autonomous driving, biomedicine,\nand large language models. However, the diversity of algorithms and the\ncomplexity of theoretical foundations often pose significant challenges for\nbeginners seeking to enter the field. This tutorial aims to provide a concise,\nintuitive, and practical introduction to DRL, with a particular focus on the\nProximal Policy Optimization (PPO) algorithm, which is one of the most widely\nused and effective DRL methods. To facilitate learning, we organize all\nalgorithms under the Generalized Policy Iteration (GPI) framework, offering\nreaders a unified and systematic perspective. Instead of lengthy theoretical\nproofs, we emphasize intuitive explanations, illustrative examples, and\npractical engineering techniques. This work serves as an efficient and\naccessible guide, helping readers rapidly progress from basic concepts to the\nimplementation of advanced DRL algorithms."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "policy iteration"
+                    },
+                    {
+                        "name": "deep reinforcement"
+                    },
+                    {
+                        "name": "policy optimization"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "generalized policy"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_Reinforcement L\\2505.08295v1.pdf",
+        "arxiv_id": "2505.08295v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Reinforcement Learning Algorithms: An Overview and Classification"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2022-09-29"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Fadi AlMahamid, Katarina Grolinger"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "The desire to make applications and machines more intelligent and the\naspiration to enable their operation without human interaction have been\ndriving innovations in neural networks, deep learning, and other machine\nlearning techniques. Although reinforcement learning has been primarily used in\nvideo games, recent advancements and the development of diverse and powerful\nreinforcement algorithms have enabled the reinforcement learning community to\nmove from playing video games to solving complex real-life problems in\nautonomous systems such as self-driving cars, delivery drones, and automated\nrobotics. Understanding the environment of an application and the algorithms'\nlimitations plays a vital role in selecting the appropriate reinforcement\nlearning algorithm that successfully solves the problem on hand in an efficient\nmanner. Consequently, in this study, we identify three main environment types\nand classify reinforcement learning algorithms according to those environment\ntypes. Moreover, within each category, we identify relationships between\nalgorithms. The overview of each algorithm provides insight into the\nalgorithms' foundations and reviews similarities and differences among\nalgorithms. This study provides a perspective on the field and helps\npractitioners and researchers to select the appropriate algorithm for their use\ncase."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "classify reinforcement"
+                    },
+                    {
+                        "name": "reinforcement algorithms"
+                    },
+                    {
+                        "name": "reinforcement learning"
+                    },
+                    {
+                        "name": "reinforcement"
+                    },
+                    {
+                        "name": "powerful reinforcement"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_Reinforcement L\\2209.14940v1.pdf",
+        "arxiv_id": "2209.14940v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Applications of Deep Reinforcement Learning in Communications and Networking: A Survey"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2018-10-18"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Nguyen Cong Luong, Dinh Thai Hoang, Shimin Gong, Dusit Niyato, Ping Wang, Ying-Chang Liang, Dong In Kim"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "This paper presents a comprehensive literature review on applications of deep\nreinforcement learning in communications and networking. Modern networks, e.g.,\nInternet of Things (IoT) and Unmanned Aerial Vehicle (UAV) networks, become\nmore decentralized and autonomous. In such networks, network entities need to\nmake decisions locally to maximize the network performance under uncertainty of\nnetwork environment. Reinforcement learning has been efficiently used to enable\nthe network entities to obtain the optimal policy including, e.g., decisions or\nactions, given their states when the state and action spaces are small.\nHowever, in complex and large-scale networks, the state and action spaces are\nusually large, and the reinforcement learning may not be able to find the\noptimal policy in reasonable time. Therefore, deep reinforcement learning, a\ncombination of reinforcement learning with deep learning, has been developed to\novercome the shortcomings. In this survey, we first give a tutorial of deep\nreinforcement learning from fundamental concepts to advanced models. Then, we\nreview deep reinforcement learning approaches proposed to address emerging\nissues in communications and networking. The issues include dynamic network\naccess, data rate control, wireless caching, data offloading, network security,\nand connectivity preservation which are all important to next generation\nnetworks such as 5G and beyond. Furthermore, we present applications of deep\nreinforcement learning for traffic routing, resource sharing, and data\ncollection. Finally, we highlight important challenges, open issues, and future\nresearch directions of applying deep reinforcement learning."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "uav networks"
+                    },
+                    {
+                        "name": "deep reinforcement"
+                    },
+                    {
+                        "name": "networks internet"
+                    },
+                    {
+                        "name": "dynamic network"
+                    },
+                    {
+                        "name": "networks network"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:\\PJLAB\\Agent\\final_project\\papers\\papers_Reinforcement L\\1810.07862v1.pdf",
+        "arxiv_id": "1810.07862v1"
+    }
+]

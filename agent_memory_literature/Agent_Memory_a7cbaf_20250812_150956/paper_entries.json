@@ -1,0 +1,61 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Competitive Advantage for Multiple-Memory Strategies in an Artificial Market"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2005-03-03"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Kurt E. Mitman, Sehyo Charley Choe, Neil F. Johnson"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "We consider a simple binary market model containing $N$ competitive agents.\nThe novel feature of our model is that it incorporates the tendency shown by\ntraders to look for patterns in past price movements over multiple time scales,\ni.e. {\\em multiple memory-lengths}. In the regime where these memory-lengths\nare all small, the average winnings per agent exceed those obtained for either\n(1) a pure population where all agents have equal memory-length, or (2) a mixed\npopulation comprising sub-populations of equal-memory agents with each\nsub-population having a different memory-length. Agents who consistently play\nstrategies of a given memory-length, are found to win more on average --\nswitching between strategies with different memory lengths incurs an effective\npenalty, while switching between strategies of equal memory does not. Agents\nemploying short-memory strategies can outperform agents using long-memory\nstrategies, even in the regime where an equal-memory system would have favored\nthe use of long-memory strategies. Using the many-body `Crowd-Anticrowd'\ntheory, we obtain analytic expressions which are in good agreement with the\nobserved numerical results. In the context of financial markets, our results\nsuggest that multiple-memory agents have a better chance of identifying price\npatterns of unknown length and hence will typically have higher winnings."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "binary market"
+                    },
+                    {
+                        "name": "financial markets"
+                    },
+                    {
+                        "name": "markets"
+                    },
+                    {
+                        "name": "competitive agents"
+                    },
+                    {
+                        "name": "memory strategies"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "agent_memory_literature\\Agent_Memory_a7cbaf_20250812_150956\\2302.03253v1.Collective_traffic_of_agents_that_remember\\2302.03253v1.Collective_traffic_of_agents_that_remember.pdf"
+    }
+]

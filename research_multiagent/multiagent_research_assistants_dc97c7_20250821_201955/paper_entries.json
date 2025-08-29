@@ -1,0 +1,61 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Governance of Autonomous Agents on the Web: Challenges and Opportunities"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2022-02-05"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Timotheus Kampik, Adnane Mansour, Olivier Boissier, Sabrina Kirrane, Julian Padget, Terry R. Payne, Munindar P. Singh, Valentina Tamma, Antoine Zimmermann"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "The study of autonomous agents has a long tradition in the Multiagent Systems\nand the Semantic Web communities, with applications ranging from automating\nbusiness processes to personal assistants. More recently, the Web of Things\n(WoT), which is an extension of the Internet of Things (IoT) with metadata\nexpressed in Web standards, and its community provide further motivation for\npushing the autonomous agents research agenda forward. Although representing\nand reasoning about norms, policies and preferences is crucial to ensuring that\nautonomous agents act in a manner that satisfies stakeholder requirements,\nnormative concepts, policies and preferences have yet to be considered as\nfirst-class abstractions in Web-based multiagent systems. Towards this end,\nthis paper motivates the need for alignment and joint research across the\nMultiagent Systems, Semantic Web, and WoT communities, introduces a conceptual\nframework for governance of autonomous agents on the Web, and identifies\nseveral research challenges and opportunities."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "semantic web"
+                    },
+                    {
+                        "name": "multiagent systems"
+                    },
+                    {
+                        "name": "based multiagent"
+                    },
+                    {
+                        "name": "the multiagent"
+                    },
+                    {
+                        "name": "systems semantic"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "research_multiagent\\multiagent_research_assistants_dc97c7_20250821_201955\\1105.1564v1.Complex_Adaptive_Digital_EcoSystems\\1105.1564v1.Complex_Adaptive_Digital_EcoSystems.pdf"
+    }
+]

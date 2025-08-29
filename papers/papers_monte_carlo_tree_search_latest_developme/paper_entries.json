@@ -1,0 +1,602 @@
+[
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Partially Observable Monte-Carlo Graph Search"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2025-07-28"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Yang You, Vincent Thomas, Alex Schutz, Robert Skilton, Nick Hawes, Olivier Buffet"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Currently, large partially observable Markov decision processes (POMDPs) are\noften solved by sampling-based online methods which interleave planning and\nexecution phases. However, a pre-computed offline policy is more desirable in\nPOMDP applications with time or energy constraints. But previous offline\nalgorithms are not able to scale up to large POMDPs. In this article, we\npropose a new sampling-based algorithm, the partially observable Monte-Carlo\ngraph search (POMCGS) to solve large POMDPs offline. Different from many online\nPOMDP methods, which progressively develop a tree while performing\n(Monte-Carlo) simulations, POMCGS folds this search tree on the fly to\nconstruct a policy graph, so that computations can be drastically reduced, and\nusers can analyze and validate the policy prior to embedding and executing it.\nMoreover, POMCGS, together with action progressive widening and observation\nclustering methods provided in this article, is able to address certain\ncontinuous POMDPs. Through experiments, we demonstrate that POMCGS can generate\npolicies on the most challenging POMDPs, which cannot be computed by previous\noffline algorithms, and these policies' values are competitive compared with\nthe state-of-the-art online POMDP algorithms."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "pomdp algorithms"
+                    },
+                    {
+                        "name": "pomdps offline"
+                    },
+                    {
+                        "name": "continuous pomdps"
+                    },
+                    {
+                        "name": "offline algorithms"
+                    },
+                    {
+                        "name": "pomdp methods"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_monte_carlo_tree_search_latest_developme/2507.20951v1.pdf",
+        "arxiv_id": "2507.20951v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Accelerating Deep Neural Network guided MCTS using Adaptive Parallelism"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2023-10-09"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Yuan Meng, Qian Wang, Tianxin Zu, Viktor Prasanna"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Deep Neural Network guided Monte-Carlo Tree Search (DNN-MCTS) is a powerful\nclass of AI algorithms. In DNN-MCTS, a Deep Neural Network model is trained\ncollaboratively with a dynamic Monte-Carlo search tree to guide the agent\ntowards actions that yields the highest returns. While the DNN operations are\nhighly parallelizable, the search tree operations involved in MCTS are\nsequential and often become the system bottleneck. Existing MCTS parallel\nschemes on shared-memory multi-core CPU platforms either exploit data\nparallelism but sacrifice memory access latency, or take advantage of local\ncache for low-latency memory accesses but constrain the tree search to a single\nthread. In this work, we analyze the tradeoff of these parallel schemes and\ndevelop performance models for both parallel schemes based on the application\nand hardware parameters. We propose a novel implementation that addresses the\ntradeoff by adaptively choosing the optimal parallel scheme for the MCTS\ncomponent on the CPU. Furthermore, we propose an efficient method for searching\nthe optimal communication batch size as the MCTS component on the CPU\ninterfaces with DNN operations offloaded to an accelerator (GPU). Using a\nrepresentative DNN-MCTS algorithm - Alphazero on board game benchmarks, we show\nthat the parallel framework is able to adaptively generate the best-performing\nparallel implementation, leading to a range of $1.5\\times - 3\\times$ speedup\ncompared with the baseline methods on CPU and CPU-GPU platforms."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "highly parallelizable"
+                    },
+                    {
+                        "name": "game benchmarks"
+                    },
+                    {
+                        "name": "optimal parallel"
+                    },
+                    {
+                        "name": "parallelizable"
+                    },
+                    {
+                        "name": "data parallelism"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_monte_carlo_tree_search_latest_developme/2310.05313v1.pdf",
+        "arxiv_id": "2310.05313v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Integrating Hyperparameter Search into Model-Free AutoML with Context-Free Grammars"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2024-04-04"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Hern\u00e1n Ceferino V\u00e1zquez, Jorge Sanchez, Rafael Carrascosa"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Automated Machine Learning (AutoML) has become increasingly popular in recent\nyears due to its ability to reduce the amount of time and expertise required to\ndesign and develop machine learning systems. This is very important for the\npractice of machine learning, as it allows building strong baselines quickly,\nimproving the efficiency of the data scientists, and reducing the time to\nproduction. However, despite the advantages of AutoML, it faces several\nchallenges, such as defining the solutions space and exploring it efficiently.\nRecently, some approaches have been shown to be able to do it using tree-based\nsearch algorithms and context-free grammars. In particular, GramML presents a\nmodel-free reinforcement learning approach that leverages pipeline\nconfiguration grammars and operates using Monte Carlo tree search. However, one\nof the limitations of GramML is that it uses default hyperparameters, limiting\nthe search problem to finding optimal pipeline structures for the available\ndata preprocessors and models. In this work, we propose an extension to GramML\nthat supports larger search spaces including hyperparameter search. We\nevaluated the approach using an OpenML benchmark and found significant\nimprovements compared to other state-of-the-art techniques."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "learning automl"
+                    },
+                    {
+                        "name": "hyperparameter search"
+                    },
+                    {
+                        "name": "tree search"
+                    },
+                    {
+                        "name": "gramml"
+                    },
+                    {
+                        "name": "to gramml"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_monte_carlo_tree_search_latest_developme/2404.03419v2.pdf",
+        "arxiv_id": "2404.03419v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Cooperative Trajectory Planning in Uncertain Environments with Monte Carlo Tree Search and Risk Metrics"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2022-03-09"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Philipp Stegmaier, Karl Kurzer, J. Marius Z\u00f6llner"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Automated vehicles require the ability to cooperate with humans for smooth\nintegration into today's traffic. While the concept of cooperation is well\nknown, developing a robust and efficient cooperative trajectory planning method\nis still a challenge. One aspect of this challenge is the uncertainty\nsurrounding the state of the environment due to limited sensor accuracy. This\nuncertainty can be represented by a Partially Observable Markov Decision\nProcess. Our work addresses this problem by extending an existing cooperative\ntrajectory planning approach based on Monte Carlo Tree Search for continuous\naction spaces. It does so by explicitly modeling uncertainties in the form of a\nroot belief state, from which start states for trees are sampled. After the\ntrees have been constructed with Monte Carlo Tree Search, their results are\naggregated into return distributions using kernel regression. We apply two risk\nmetrics for the final selection, namely a Lower Confidence Bound and a\nConditional Value at Risk. It can be demonstrated that the integration of risk\nmetrics in the final selection policy consistently outperforms a baseline in\nuncertain environments, generating considerably safer trajectories."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "safer trajectories"
+                    },
+                    {
+                        "name": "trajectory planning"
+                    },
+                    {
+                        "name": "cooperative trajectory"
+                    },
+                    {
+                        "name": "planning"
+                    },
+                    {
+                        "name": "automated vehicles"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_monte_carlo_tree_search_latest_developme/2203.04452v3.pdf",
+        "arxiv_id": "2203.04452v3"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Prompt-Based Monte Carlo Tree Search for Mitigating Hallucinations in Large Models"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2025-01-17"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Zhihua Duan, Jialin Wang"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "With the rapid development of large models in the field of artificial\nintelligence, how to enhance their application capabilities in handling complex\nproblems in the field of scientific research remains a challenging problem to\nbe solved. This study proposes an improved Monte Carlo Tree Search (MCTS)\nmethod based on prompt words. In the simulation search stage, it introduces\ndynamic adjustment of exploration parameters and adaptive selection strategies,\nwhich can better balance exploration and exploitation, thereby reducing the\nhallucination phenomenon. This paper takes the four subsets of the SciEval\ndataset as the test objects, and compares the Glm-4-flash+Improved MCTS method\nwith the methods of several existing models. The results show that the Improved\nMCTS method performs better, providing new ideas and methods for the\napplication of large models in the field of scientific research."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "simulation search"
+                    },
+                    {
+                        "name": "search stage"
+                    },
+                    {
+                        "name": "tree search"
+                    },
+                    {
+                        "name": "exploration parameters"
+                    },
+                    {
+                        "name": "monte carlo"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_monte_carlo_tree_search_latest_developme/2501.13942v1.pdf",
+        "arxiv_id": "2501.13942v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Monte-Carlo Tree Search by Best Arm Identification"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2017-06-09"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Emilie Kaufmann, Wouter Koolen"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Recent advances in bandit tools and techniques for sequential learning are\nsteadily enabling new applications and are promising the resolution of a range\nof challenging related problems. We study the game tree search problem, where\nthe goal is to quickly identify the optimal move in a given game tree by\nsequentially sampling its stochastic payoffs. We develop new algorithms for\ntrees of arbitrary depth, that operate by summarizing all deeper levels of the\ntree into confidence intervals at depth one, and applying a best arm\nidentification procedure at the root. We prove new sample complexity guarantees\nwith a refined dependence on the problem instance. We show experimentally that\nour algorithms outperform existing elimination-based algorithms and match\nprevious special-purpose methods for depth-two trees."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "game tree"
+                    },
+                    {
+                        "name": "tree search"
+                    },
+                    {
+                        "name": "sequentially sampling"
+                    },
+                    {
+                        "name": "bandit tools"
+                    },
+                    {
+                        "name": "optimal move"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_monte_carlo_tree_search_latest_developme/1706.02986v2.pdf",
+        "arxiv_id": "1706.02986v2"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Parallelization of Monte Carlo Tree Search in Continuous Domains"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2020-03-30"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Karl Kurzer, Christoph H\u00f6rtnagl, J. Marius Z\u00f6llner"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Monte Carlo Tree Search (MCTS) has proven to be capable of solving\nchallenging tasks in domains such as Go, chess and Atari. Previous research has\ndeveloped parallel versions of MCTS, exploiting today's multiprocessing\narchitectures. These studies focused on versions of MCTS for the discrete case.\nOur work builds upon existing parallelization strategies and extends them to\ncontinuous domains. In particular, leaf parallelization and root\nparallelization are studied and two final selection strategies that are\nrequired to handle continuous states in root parallelization are proposed. The\nevaluation of the resulting parallelized continuous MCTS is conducted using a\nchallenging cooperative multi-agent system trajectory planning task in the\ndomain of automated vehicles."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "trajectory planning"
+                    },
+                    {
+                        "name": "root parallelization"
+                    },
+                    {
+                        "name": "multi agent"
+                    },
+                    {
+                        "name": "carlo tree"
+                    },
+                    {
+                        "name": "planning task"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_monte_carlo_tree_search_latest_developme/2003.13741v1.pdf",
+        "arxiv_id": "2003.13741v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Customized Monte Carlo Tree Search for LLVM/Polly's Composable Loop Optimization Transformations"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2021-05-10"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Jaehoon Koo, Prasanna Balaprakash, Michael Kruse, Xingfu Wu, Paul Hovland, Mary Hall"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Polly is the LLVM project's polyhedral loop nest optimizer. Recently,\nuser-directed loop transformation pragmas were proposed based on LLVM/Clang and\nPolly. The search space exposed by the transformation pragmas is a tree,\nwherein each node represents a specific combination of loop transformations\nthat can be applied to the code resulting from the parent node's loop\ntransformations. We have developed a search algorithm based on Monte Carlo tree\nsearch (MCTS) to find the best combination of loop transformations. Our\nalgorithm consists of two phases: exploring loop transformations at different\ndepths of the tree to identify promising regions in the tree search space and\nexploiting those regions by performing a local search. Moreover, a restart\nmechanism is used to avoid the MCTS getting trapped in a local solution. The\nbest and worst solutions are transferred from the previous phases of the\nrestarts to leverage the search history. We compare our approach with random,\ngreedy, and breadth-first search methods on PolyBench kernels and ECP proxy\napplications. Experimental results show that our MCTS algorithm finds pragma\ncombinations with a speedup of 2.3x over Polly's heuristic optimizations on\naverage."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "nest optimizer"
+                    },
+                    {
+                        "name": "heuristic optimizations"
+                    },
+                    {
+                        "name": "tree search"
+                    },
+                    {
+                        "name": "polly heuristic"
+                    },
+                    {
+                        "name": "search algorithm"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_monte_carlo_tree_search_latest_developme/2105.04555v1.pdf",
+        "arxiv_id": "2105.04555v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "MCTS Based Agents for Multistage Single-Player Card Game"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2021-09-24"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Konrad Godlewski, Bartosz Sawicki"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "The article presents the use of Monte Carlo Tree Search algorithms for the\ncard game Lord of the Rings. The main challenge was the complexity of the game\nmechanics, in which each round consists of 5 decision stages and 2 random\nstages. To test various decision-making algorithms, a game simulator has been\nimplemented. The research covered an agent based on expert rules, using flat\nMonte-Carlo search, as well as complete MCTS-UCB. Moreover different playout\nstrategies has been compared. As a result of experiments, an optimal (assuming\na limited time) combination of algorithms were formulated. The developed MCTS\nbased method have demonstrated a advantage over agent with expert knowledge."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "algorithms game"
+                    },
+                    {
+                        "name": "card game"
+                    },
+                    {
+                        "name": "monte carlo"
+                    },
+                    {
+                        "name": "carlo search"
+                    },
+                    {
+                        "name": "game simulator"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_monte_carlo_tree_search_latest_developme/2109.12112v1.pdf",
+        "arxiv_id": "2109.12112v1"
+    },
+    {
+        "entry": {
+            "Name": {
+                "title": [
+                    {
+                        "text": {
+                            "content": "Monte Carlo Search Algorithms Discovering Monte Carlo Tree Search Exploration Terms"
+                        }
+                    }
+                ]
+            },
+            "Date": {
+                "date": {
+                    "start": "2024-04-14"
+                }
+            },
+            "Authors": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Tristan Cazenave"
+                        }
+                    }
+                ]
+            },
+            "Abstract": {
+                "rich_text": [
+                    {
+                        "text": {
+                            "content": "Monte Carlo Tree Search and Monte Carlo Search have good results for many\ncombinatorial problems. In this paper we propose to use Monte Carlo Search to\ndesign mathematical expressions that are used as exploration terms for Monte\nCarlo Tree Search algorithms. The optimized Monte Carlo Tree Search algorithms\nare PUCT and SHUSS. We automatically design the PUCT and the SHUSS root\nexploration terms. For small search budgets of 32 evaluations the discovered\nroot exploration terms make both algorithms competitive with usual PUCT."
+                        }
+                    }
+                ]
+            },
+            "Tags": {
+                "multi_select": [
+                    {
+                        "name": "carlo search"
+                    },
+                    {
+                        "name": "tree search"
+                    },
+                    {
+                        "name": "optimized monte"
+                    },
+                    {
+                        "name": "monte carlo"
+                    },
+                    {
+                        "name": "search algorithms"
+                    }
+                ]
+            },
+            "Github": {
+                "url": null
+            }
+        },
+        "pdf_path": "D:/PJLAB/Agent/final_project/papers/papers_monte_carlo_tree_search_latest_developme/2404.09304v1.pdf",
+        "arxiv_id": "2404.09304v1"
+    }
+]
